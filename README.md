@@ -105,7 +105,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ### Inference-Based Evolution
 
 #### Parallel Sampling
-- [arXiv'25] **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge** (https://arxiv.org/abs/2502.12501)
+- [arXiv'25] **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge** [[Paper]](https://arxiv.org/abs/2502.12501)
 - [arXiv'24] **Planning In Natural Language Improves LLM Search For Code Generation** [[Paper]](https://arxiv.org/abs/2409.03733)
 - [arXiv'24] **Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems** [[Paper]](https://arxiv.org/abs/2403.02419)
 - [arXiv'24] **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** [[Paper]](https://arxiv.org/abs/2408.03314)
