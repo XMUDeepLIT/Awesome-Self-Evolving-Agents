@@ -105,7 +105,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ### Inference-Based Evolution
 
 #### Parallel Sampling
-- Self-Consistency [[Paper]](https://arxiv.org/abs/2203.11171)
+- [ICLR'23] **Self-Consistency Improves Chain of Thought Reasoning in Language Models** [[Paper]](https://arxiv.org/abs/2203.11171)
 - LLM Calls [[Paper]](https://arxiv.org/abs/2403.02419)
 - LLM-Blender [[Paper]](https://arxiv.org/abs/2306.02561)
 - Scaling LLM Test-Time Compute [[Paper]](https://arxiv.org/abs/2408.03314)
