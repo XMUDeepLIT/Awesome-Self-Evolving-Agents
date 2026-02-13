@@ -105,13 +105,13 @@ We welcome researchers to share related work to enrich this list or provide insi
 ### Inference-Based Evolution
 
 #### Parallel Sampling
+- [arXiv'25] **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge** (https://arxiv.org/abs/2502.12501)
+- [arXiv'24] **Planning In Natural Language Improves LLM Search For Code Generation** [[Paper]](https://arxiv.org/abs/2409.03733)
+- [arXiv'24] **Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems** [[Paper]](https://arxiv.org/abs/2403.02419)
+- [arXiv'24] **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** [[Paper]](https://arxiv.org/abs/2408.03314)
 - [ICLR'23] **Self-Consistency Improves Chain of Thought Reasoning in Language Models** [[Paper]](https://arxiv.org/abs/2203.11171)
-- LLM Calls [[Paper]](https://arxiv.org/abs/2403.02419)
-- LLM-Blender [[Paper]](https://arxiv.org/abs/2306.02561)
-- Scaling LLM Test-Time Compute [[Paper]](https://arxiv.org/abs/2408.03314)
-- SelfCheckGPT [[Paper]](https://arxiv.org/abs/2303.08896)
-- PlanSearch [[Paper]](https://arxiv.org/abs/2409.03733)
-- Crowd Comparative Reasoning [[Paper]](https://arxiv.org/abs/2502.12501)
+- [ACL'23] **LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion** [[Paper]](https://arxiv.org/abs/2306.02561)
+- [EMNLP'23] **SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models** [[Paper]](https://arxiv.org/abs/2303.08896)
 
 #### Sequential Self-Correction
 - Self-Refine [[Paper]](https://arxiv.org/abs/2303.17651)
