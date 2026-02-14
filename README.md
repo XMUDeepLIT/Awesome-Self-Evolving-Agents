@@ -1,4 +1,5 @@
-# Awesome-Agentic-Self-Evolution (Self-Evolution Survey)
+# Awesome-Agentic-Self-Evolution (Agentic
+ Self-Evolution Survey)
 
 <!-- <div align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
@@ -61,17 +62,17 @@ We welcome researchers to share related work to enrich this list or provide insi
             - [Parallel Sampling](#parallel-sampling)
             - [Sequential Self-Correction](#sequential-self-correction)
             - [Structured Reasoning](#structured-reasoning)
-        - [Training-Based Evolution](#training-based-evolution)
+        - [Training-Based Evolution 🔥](#training-based-evolution)
             - [Synthesis-Driven Offline Self-Evolving](#synthesis-driven-offline-self-evolving)
-            - [Exploration-Driven Online Self-Evolving](#exploration-driven-online-self-evolving)
+            - [Exploration-Driven Online Self-Evolving 🔥](#exploration-driven-online-self-evolving)
     - [Environment-Centric Self-Evolving](#environment-centric-self-evolving)
         - [Static Knowledge Evolution](#static-knowledge-evolution)
             - [Agentic Retrieval-Augmented Generation](#agentic-retrieval-augmented-generation)
             - [Reasoning-Driven Deep Research](#reasoning-driven-deep-research)
-        - [Dynamic Experience Evolution](#dynamic-experience-evolution)
+        - [Dynamic Experience Evolution 🔥](#dynamic-experience-evolution)
             - [Offline Experience Compilation](#offline-experience-compilation)
             - [Online Experience Adaptation](#online-experience-adaptation)
-            - [Lifelong Experience Evolution](#lifelong-experience-evolution)
+            - [Lifelong Experience Evolution 🔥](#lifelong-experience-evolution)
         - [Modular Architecture Evolution](#modular-architecture-evolution)
             - [Interaction Protocol Evolution](#interaction-protocol-evolution)
             - [Memory Topology Evolution](#memory-topology-evolution)
@@ -80,14 +81,19 @@ We welcome researchers to share related work to enrich this list or provide insi
             - [Offline Architecture Search](#offline-architecture-search)
             - [Runtime Dynamic Adaptation](#runtime-dynamic-adaptation)
             - [Structural Memory Evolution](#structural-memory-evolution)
-    - [Model-Environment Co-Evolving](#model-environment-co-evolving)
-        - [Environment Training](#environment-training)
+    - [Model-Environment Co-Evolving 🔥](#model-environment-co-evolving)
+        - [Multi-Agent Policy Co-Evolution](#multi-agent-policy-co-evolution)
+        - [Environment Training 🔥](#environment-training)
             - [Adaptive Curriculum Evolution](#adaptive-curriculum-evolution)
             - [Scalable Environment Evolution](#scalable-environment-evolution)
-        - [Multi-Agent Policy Co-Evolution](#multi-agent-policy-co-evolution)
+
 - [📚 Related Survey Papers](#-related-survey-papers)
 - [🏆 Benchmarks](#-benchmarks)
 - [💻 Open Source Libraries](#-open-source-libraries)
+- [🚀 Applications](#-applications)
+    - [Automated Scientific Discovery](#automated-scientific-discovery)
+    - [Autonomous Software Engineering](#autonomous-software-engineering)
+    - [Open-World Simulation](#open-world-simulation)
 - [⭐ Star History](#-star-history)
 
 
@@ -97,216 +103,312 @@ We welcome researchers to share related work to enrich this list or provide insi
    <p align="center"><img width="100%" src="figs/trend.png" /></p>
     <p align="center"><em>The development trends in the field of Agentic Self-Evolution with representative works.</em></p>
 
+
+
 # 📜 Research Papers
 
-## Model-Centric Self-Evolving
+
+## Model-Centric Self-Evolution
 
 
 ### Inference-Based Evolution
 
+
 #### Parallel Sampling
-- [arXiv'25] **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge** [[Paper]](https://arxiv.org/abs/2502.12501)
-- [arXiv'24] **Planning In Natural Language Improves LLM Search For Code Generation** [[Paper]](https://arxiv.org/abs/2409.03733)
-- [arXiv'24] **Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems** [[Paper]](https://arxiv.org/abs/2403.02419)
-- [arXiv'24] **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** [[Paper]](https://arxiv.org/abs/2408.03314)
-- [ICLR'23] **Self-Consistency Improves Chain of Thought Reasoning in Language Models** [[Paper]](https://arxiv.org/abs/2203.11171)
-- [ACL'23] **LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion** [[Paper]](https://arxiv.org/abs/2306.02561)
-- [EMNLP'23] **SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models** [[Paper]](https://arxiv.org/abs/2303.08896)
+
+- (ICLR'23) Self-consistency improves chain of thought reasoning in language models [[Paper]](https://arxiv.org/abs/2203.11171)
+- (NeurIPS'24) Are more llm calls all you need? towards scaling laws of compound inference systems [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/51173cf34c5faac9796a47dc2fdd3a71-Abstract-Conference.html)
+- (arxiv'24) Large language monkeys: Scaling inference compute with repeated sampling [[Paper]](https://arxiv.org/abs/2407.21787)
+- (arxiv'24) Scaling llm test-time compute optimally can be more effective than scaling model parameters [[Paper]](https://arxiv.org/abs/2408.03314)
+- (ACL'23) Llm-blender: Ensembling large language models with pairwise ranking and generative fusion [[Paper]](https://aclanthology.org/2023.acl-long.792/)
+- (EMNLP'23) Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models [[Paper]](https://aclanthology.org/2023.emnlp-main.557/)
+
 
 #### Sequential Self-Correction
-- Self-Refine [[Paper]](https://arxiv.org/abs/2303.17651)
-- Self-Debugging [[Paper]](https://arxiv.org/abs/2304.05128)
-- Reflexion [[Paper]](https://arxiv.org/abs/2303.11366)
-- CRITIC [[Paper]](https://arxiv.org/abs/2305.11738)
-- SCORE [[Paper]](https://arxiv.org/abs/2404.17140)
-- Mind Evolution [[Paper]](https://arxiv.org/abs/2501.09891)
-- Meta-CoT [[Paper]](https://arxiv.org/abs/2501.04682)
-- Planning Tokens [[Paper]](https://arxiv.org/abs/2409.03733)
-- RaLU [[Paper]](https://arxiv.org/abs/2502.07803)
+
+- (NeurIPS'23) Self-refine: Iterative refinement with self-feedback [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html)
+- (ICLR'24) Teaching large language models to self-debug [[Paper]](https://arxiv.org/abs/2304.05128)
+- (ACL'24 findings) Small language models need strong verifiers to self-correct reasoning [[Paper]](https://aclanthology.org/2024.findings-acl.924/)
+- (NeurIPS'23) Reflexion: Language agents with verbal reinforcement learning [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html)
+- (ICLR'24) Critic: Large language models can self-correct with tool-interactive critiquing [[Paper]](https://arxiv.org/abs/2305.11738)
+- (arxiv'25) Evolving deeper llm thinking [[Paper]](https://arxiv.org/abs/2501.09891)
+- (arxiv'25) Towards system 2 reasoning in llms: Learning how to think with meta chain-of-thought [[Paper]](https://arxiv.org/abs/2501.04682)
+- (ICLR'25) Planning in natural language improves llm search for code generation [[Paper]](https://arxiv.org/abs/2409.03733)
+- (ICML'25) Reasoning-as-logic-units: Scaling test-time reasoning in large language models through logic unit alignment [[Paper]](https://arxiv.org/abs/2502.07803)
+
 
 #### Structured Reasoning
-- Tree of Thoughts (ToT) [[Paper]](https://arxiv.org/abs/2305.10601)
-- LATS [[Paper]](https://arxiv.org/abs/2310.04406)
-- TS-LLM [[Paper]](https://arxiv.org/abs/2309.17179)
-- Graph of Thoughts (GoT) [[Paper]](http://dx.doi.org/10.1609/aaai.v38i16.29720)
-- Planner-Centric Framework [[Paper]](https://arxiv.org/abs/2511.10037)
-- Think-on-Graph (ToG) [[Paper]](https://arxiv.org/abs/2307.07697)
-- Think-on-Graph 2.0 [[Paper]](https://arxiv.org/abs/2407.10805)
-- Graph Chain-of-Thought (Graph-CoT) [[Paper]](https://arxiv.org/abs/2404.07103)
-- Reasoning on Graphs (ROG) [[Paper]](https://arxiv.org/abs/2310.01061)
 
-### Training-Based Evolution
+- (arxiv'24) Stream of search (sos): Learning to search in language [[Paper]](https://arxiv.org/abs/2404.03683)
+- (NeurIPS'24) Toward self-improvement of llms via imagination, searching, and criticizing [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5e5853f35164e434015716a8c2a66543-Abstract-Conference.html)
+- (ICML'24) Alphazero-like tree-search can guide large language model decoding and training [[Paper]](https://arxiv.org/abs/2309.17179)
+- (arxiv'24) Litesearch: Efficacious tree search for llm [[Paper]](https://arxiv.org/abs/2407.00320)
+- (NeurIPS 2023) Tree of thoughts: Deliberate problem solving with large language models, [[Paper]](https://proceedings.neurips.cc/paper/2023/hash/271db9922b8d1f4dd7aaef84ed5ac703-Abstract.html)
+- (ICML'24) Language agent tree search unifies reasoning acting and planning in language models [[Paper]](https://arxiv.org/abs/2310.04406)
+- (ICLR'24) Think-on-graph: Deep and responsible reasoning of large language model on knowledge graph [[Paper]](https://arxiv.org/abs/2307.07697)
+- (ICLR'25) Think-on-graph 2.0: Deep and faithful large language model reasoning with knowledge-guided retrieval augmented generation [[Paper]](https://arxiv.org/abs/2407.10805)
+- (ICLR'24) Reasoning on graphs: Faithful and interpretable large language model reasoning [[Paper]](https://arxiv.org/abs/2310.01061)
+
+
+### Training-Based Evolution 🔥
+
+<h3 align="center">
+   <p align="center"><img width="100%" src="figs/model-centric.png" /></p>
+
+
 
 #### Synthesis-Driven Offline Self-Evolving
-- Self-Instruct [[Paper]](https://arxiv.org/abs/2212.10560)
-- Self-Guide [[Paper]](https://arxiv.org/abs/2407.12874)
-- SEAL [[Paper]](https://arxiv.org/abs/2506.10943)
-- SPIN [[Paper]](https://arxiv.org/abs/2401.01335)
-- SPPO [[Paper]](https://arxiv.org/abs/2405.00675)
-- STaR [[Paper]](https://arxiv.org/abs/2203.14465)
-- LMSI [[Paper]](https://aclanthology.org/2023.emnlp-main.67/)
-- ReST-MCTS* [[Paper]](https://arxiv.org/abs/2406.03816)
-- SELF [[Paper]](https://arxiv.org/abs/2310.00533)
-- Sirius [[Paper]](https://arxiv.org/abs/2502.04780)
-- RAGEN [[Paper]](https://arxiv.org/abs/2504.20073)
-- SAMULE [[Paper]](https://arxiv.org/abs/2509.20562)
 
-#### Exploration-Driven Online Self-Evolving
-- R-Zero [[Paper]](https://arxiv.org/abs/2508.05004)
-- Absolute Zero [[Paper]](https://arxiv.org/abs/2505.03335)
-- Language Self-Play (LSP) [[Paper]](https://arxiv.org/abs/2509.07414)
-- Self-Questioning LM [[Paper]](https://arxiv.org/abs/2508.03682)
-- SeRL [[Paper]](https://arxiv.org/abs/2505.20347)
-- Socratic-Zero [[Paper]](https://arxiv.org/abs/2509.24726)
-- Agent0 [[Paper]](https://arxiv.org/abs/2511.16043)
-- Self-Challenging [[Paper]](https://arxiv.org/abs/2506.01716)
-- SPIRAL [[Paper]](https://arxiv.org/abs/2506.24119)
-- CURE [[Paper]](https://arxiv.org/abs/2506.03136)
-- SPICE [[Paper]](https://arxiv.org/abs/2510.24684)
-- LADDER [[Paper]](https://arxiv.org/abs/2503.00735)
-- WebRL [[Paper]](https://arxiv.org/abs/2411.02337)
-- SPELL [[Paper]](https://arxiv.org/abs/2509.23863)
-- R-FEW [[Paper]](https://arxiv.org/abs/2512.02472)
-- SKE-Learn [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34590)
-- SPC (Self-Play Critic) [[Paper]](https://arxiv.org/abs/2504.19162)
-- Misevolution [[Paper]](https://arxiv.org/abs/2509.26354)
+- (TMLR'24) Beyond human data: Scaling self-training for problem-solving with language models [[Paper]](https://arxiv.org/abs/2312.06585)
+- (NeurIPS'25 workshop) Learning to solve and verify: A self-play framework for code and test generation [[Paper]](https://arxiv.org/abs/2502.14948)
+- (arxiv'25) Evolving language models without labels: Majority drives selection, novelty promotes variation [[Paper]](https://arxiv.org/abs/2509.15194)
+- (arxiv'25) Test-time offline reinforcement learning on goal-related experience [[Paper]](https://arxiv.org/abs/2507.18809)
+- (arxiv'25) Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training [[Paper]](https://arxiv.org/abs/2501.11425)
+- (ACL'23) Self-instruct: Aligning language models with self-generated instructions [[Paper]](https://aclanthology.org/2023.acl-long.754.pdf)
+- (COLM'24) Self-guide: Better task-specific instruction following via self-synthetic finetuning [[Paper]](https://arxiv.org/abs/2407.12874)
+- (NeurIPS'25) Self-Adapting Language Models [[Paper]](https://arxiv.org/abs/2506.10943)
+- (arxiv'23) Self: Self-evolution with language feedback [[Paper]](https://arxiv.org/abs/2310.00533)
+- (ICML'24) Self-play fine-tuning converts weak language models to strong language models [[Paper]](https://arxiv.org/abs/2401.01335)
+- (ICLR'25) Self-play preference optimization for language model alignment [[Paper]](https://arxiv.org/abs/2405.00675)
+- (NeurIPS'22) Star: Bootstrapping reasoning with reasoning [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html)
+- (EMNLP'23) Large language models can self-improve [[Paper]](https://aclanthology.org/2023.emnlp-main.67/)
+- (NeurIPS'24) Rest-mcts*: Llm self-training via process reward guided tree search [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/76ec4dc30e9faaf0e4b6093eaa377218-Abstract-Conference.html)
+- (ICML'25) Self-improving language models for evolutionary program synthesis: A case study on ARC-AGI [[Paper]](https://icml.cc/virtual/2025/poster/43499)
+- (NeurIPS'25) Sirius: Self-improving multi-agent systems via bootstrapped reasoning [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/118834)
+- (arxiv'25) Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning [[Paper]](https://arxiv.org/abs/2504.20073)
+- (EMNLP'25) Samule: Self-learning agents enhanced by multi-level reflection [[Paper]](https://aclanthology.org/2025.emnlp-main.839/)
 
-## Environment-Centric Self-Evolving
+
+#### Exploration-Driven Online Self-Evolving 🔥
+
+- (arxiv'26) TTCS: Test-Time Curriculum Synthesis for Self-Evolving [[Paper]](https://arxiv.org/abs/2601.22628)
+- (NeurIPS'25) Co-evolving llm coder and unit tester via reinforcement learning [[Paper]](neurips.cc/virtual/2025/loc/san-diego/poster/115329)
+- (arxiv'25) Towards agentic self-learning llms in search environment [[Paper]](https://arxiv.org/abs/2510.14253)
+- (arxiv'25) Multi-agent evolve: Llm self-improve through co-evolution [[Paper]](https://arxiv.org/abs/2510.23595)
+- (ICLR'26) Steporlm: A self-evolving framework with generative process supervision for operations research language models [[Paper]](https://arxiv.org/abs/2509.22558)
+- (NeurIPS'24) Coevolving with the other you: Fine-tuning llm with sequential cooperative multi-agent reinforcement learning [[Paper]](https://neurips.cc/virtual/2024/poster/95347)
+- (ICLR'26) R-zero: Self-evolving reasoning llm from zero data [[Paper]](https://arxiv.org/abs/2508.05004)
+- (NeurIPS'25) Absolute zero: Reinforced self-play reasoning with zero data [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/116121)
+- (arxiv'25) Language self-play for data-free training [[Paper]](https://arxiv.org/abs/2509.07414)
+- (arxiv'25) Self-questioning language models [[Paper]](https://arxiv.org/abs/2508.03682)
+- (arxiv'25) SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning [[Paper]](https://arxiv.org/abs/2506.24119)
+- (arxiv'25) Socratic-zero: Bootstrapping reasoning via data-free agent co-evolution [[Paper]](https://arxiv.org/abs/2509.24726)
+- (arxiv'25) Agent0: Unleashing self-evolving agents from zero data via tool-integrated reasoning [[Paper]](https://arxiv.org/abs/2511.16043)
+- (NeurIPS'25) SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/117365)
+- (arxiv'26) Dr. Zero: Self-Evolving Search Agents without Training Data [[Paper]](https://arxiv.org/abs/2601.07055)
+- (ICLR'26) Theoretical Modeling of LLM Self-Improvement Training Dynamics Through Solver-Verifier Gap [[Paper]](https://arxiv.org/abs/2507.00075)
+- (ICLR'26) Search self-play: Pushing the frontier of agent capability without supervision [[Paper]](https://arxiv.org/abs/2510.18821)
+- (arxiv'25) ReVeal: Self-Evolving Code Agents via Iterative Generation-Verification [[Paper]](https://arxiv.org/abs/2506.11442)
+- (NeurIPS'25) Self-challenging language model agents [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119495)
+- (ICLR'26) Spice: Self-play in corpus environments improves reasoning [[Paper]](https://arxiv.org/abs/2510.24684)
+- (ICLR'26) Spell: Self-play reinforcement learning for evolving long-context language models [[Paper]](https://arxiv.org/abs/2509.23863)
+- (ICLR'25) Webrl: Training llm web agents via self-evolving online curriculum reinforcement learning [[Paper]](https://arxiv.org/abs/2411.02337)
+- (arxiv'25) Ladder: Self-improving llms through recursive problem decomposition [[Paper]](https://arxiv.org/abs/2503.00735)
+- (arxiv'25) Guided self-evolving llms with minimal human supervision [[Paper]](https://arxiv.org/abs/2512.02472)
+- (AAAI'25) Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34590)
+- (NeurIPS'25) Spc: Evolving self-play critic via adversarial games for llm reasoning [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/118706)
+- (ICLR'26) Your agent may misevolve: Emergent risks in self-evolving llm agents [[Paper]](https://arxiv.org/abs/2509.26354)
+
+
+## Environment-Centric Self-Evolution
+
+<h3 align="center">
+   <p align="center"><img width="100%" src="figs/exp-driven.png" /></p>
+
+
 
 ### Static Knowledge Evolution
 
+
 #### Agentic Retrieval-Augmented Generation
-- Self-RAG [[Paper]](https://arxiv.org/abs/2310.11511)
-- RAG-Critic [[Paper]](https://aclanthology.org/2025.acl-long.179/)
-- Search-o1 [[Paper]](https://arxiv.org/abs/2501.05366)
-- Search-R1 [[Paper]](https://arxiv.org/abs/2503.09516)
-- MindSearch [[Paper]](https://arxiv.org/abs/2407.20183)
-- ODS [[Paper]](https://arxiv.org/abs/2503.20201)
+
+- (ICLR'24) Self-rag: Learning to retrieve, generate, and critique through self-reflection [[Paper]](https://arxiv.org/abs/2310.11511)
+- (ACL'25) Rag-critic: Leveraging automated critic-guided agentic workflow for retrieval augmented generation [[Paper]](https://aclanthology.org/2025.acl-long.179/)
+- (EMNLP'25) Search-o1: Agentic search-enhanced large reasoning models [[Paper]](https://aclanthology.org/2025.emnlp-main.276.pdf)
+- (COLM 2025) Search-r1: Training llms to reason and leverage search engines with reinforcement learning [[Paper]](https://arxiv.org/abs/2503.09516)
+- (arxiv'25) Learning to reason with search for llms via reinforcement learning [[Paper]](https://arxiv.org/abs/2503.19470)
+- (arxiv'25) R1-searcher: Incentivizing the search capability in llms via reinforcement learning [[Paper]](https://arxiv.org/abs/2503.05592)
+- (ACL'23) Webcpm: Interactive web search for chinese long-form question answering [[Paper]](https://aclanthology.org/2023.acl-long.499/)
+- (NeurIPS'23 workshop)Dspy: Compiling declarative language model calls into self-improving pipelines [[Paper]](https://arxiv.org/abs/2310.03714)
+- (ICLR'25) Mindsearch: Mimicking human minds elicits deep ai searcher [[Paper]](https://arxiv.org/abs/2407.20183)
+- (arxiv'25) Open deep search: Democratizing search with open-source reasoning agents [[Paper]](https://arxiv.org/abs/2503.20201)
+
 
 #### Reasoning-Driven Deep Research
-- DeepDive [[Paper]](https://arxiv.org/abs/2509.10446)
-- DeepSearch [[Paper]](https://arxiv.org/abs/2509.25454)
-- DeepResearcher [[Paper]](https://arxiv.org/abs/2504.03160)
-- SFR-DeepResearch [[Paper]](https://arxiv.org/abs/2509.06283)
-- WebWeaver [[Paper]](https://arxiv.org/abs/2509.13312)
-- Tongyi DeepResearch [[Paper]](https://arxiv.org/abs/2510.24701)
-- WebThinker [[Paper]](https://arxiv.org/abs/2504.21776)
-- SurveyX [[Paper]](https://arxiv.org/abs/2502.14776)
-- FINSIGHT [[Paper]](https://arxiv.org/abs/2510.16844)
 
-### Dynamic Experience Evolution
+- (arxiv'25) DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents [[Paper]](https://arxiv.org/abs/2506.11763)
+- (arxiv'25) Deep research agents: A systematic examination and roadmap [[Paper]](https://arxiv.org/abs/2506.18096)
+- (ACL'24) Webvoyager: Building an end-to-end web agent with large multimodal models [[Paper]](https://aclanthology.org/anthology-files/pdf/acl/2024.acl-long.371.pdf)
+- (arxiv'25) Deepdive: Advancing deep search agents with knowledge graphs and multi-turn rl [[Paper]](https://arxiv.org/abs/2509.10446)
+- (arxiv'25) DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search [[Paper]](https://arxiv.org/abs/2509.25454)
+- (arxiv'25) Hiersearch: A hierarchical enterprise deep search framework integrating local and web searches [[Paper]](https://arxiv.org/abs/2508.08088)
+- (EMNLP'25) Deepresearcher: Scaling deep research via reinforcement learning in real-world environments [[Paper]](https://aclanthology.org/2025.emnlp-main.22/)
+- (arxiv'25) Sfr-deepresearch: Towards effective reinforcement learning for autonomously reasoning single agents [[Paper]](https://arxiv.org/abs/2509.06283)
+- (arxiv'25) Tongyi deepresearch technical report [[Paper]](https://arxiv.org/abs/2510.24701)
+- (arxiv'25) Webweaver: Structuring web-scale evidence with dynamic outlines for open-ended deep research [[Paper]](https://arxiv.org/abs/2509.13312)
+- (arxiv'25) Webthinker: Empowering large reasoning models with deep research capability [[Paper]](https://arxiv.org/abs/2504.21776)
+- (arxiv'25) Surveyx: Academic survey automation via large language models [[Paper]](https://arxiv.org/abs/2502.14776)
+
+### Dynamic Experience Evolution 🔥
+
 
 #### Offline Experience Compilation
-- AgentRR [[Paper]](https://arxiv.org/abs/2505.17716)
-- Agent Workflow Memory (AWM) [[Paper]](https://arxiv.org/abs/2409.07429)
-- SkillWeaver [[Paper]](https://arxiv.org/abs/2504.07079)
-- Agent KB [[Paper]](https://arxiv.org/abs/2507.06229)
-- CoPS [[Paper]](https://arxiv.org/abs/2410.16670)
-- Trainable Graph Memory [[Paper]](https://arxiv.org/abs/2511.07800)
+
+- (arxiv'25) Remember me, refine me: A dynamic procedural memory framework for experience-driven agent evolution [[Paper]](https://arxiv.org/abs/2512.10696)
+- (arxiv'25) Get Experience from Practice: LLM Agents with Record & Replay [[Paper]](https://arxiv.org/abs/2505.17716)
+- (arxiv'25) Skillweaver: Web agents can self-improve by discovering and honing skills [[Paper]](https://arxiv.org/abs/2504.07079)
+- (ICML'25) Agent kb: Leveraging cross-domain experience for agentic problem solving [[Paper]](https://arxiv.org/abs/2507.06229)
+- (arxiv'25) From experience to strategy: Empowering llm agents with trainable graph memory [[Paper]](https://arxiv.org/abs/2511.07800)
+- (arxiv'24) Cops: Empowering llm agents with provable cross-task experience sharing [[Paper]](https://arxiv.org/abs/2410.16670)
+- (arxiv'25) Arcmemo: Abstract reasoning composition with lifelong llm memory [[Paper]](https://arxiv.org/abs/2509.04439)
+
 
 #### Online Experience Adaptation
-- Dynamic Cheatsheet [[Paper]](https://arxiv.org/abs/2504.07952)
-- GEPA [[Paper]](https://arxiv.org/abs/2507.19457)
-- Agentic Context Engineering [[Paper]](https://arxiv.org/abs/2510.04618)
-- Memento [[Paper]](https://arxiv.org/abs/2508.16153)
 
-#### Lifelong Experience Evolution
-- ReasoningBank [[Paper]](https://arxiv.org/abs/2509.25140)
-- EVOLVER [[Paper]](https://arxiv.org/abs/2510.16079)
-- FLEX [[Paper]](https://arxiv.org/abs/2511.06449)
-- Early Experience [[Paper]](https://arxiv.org/abs/2510.08558)
-- Training-Free GRPO [[Paper]](https://arxiv.org/abs/2510.08191)
-- LatentEvolve [[Paper]](https://arxiv.org/abs/2509.24771)
-- ASI [[Paper]](https://arxiv.org/abs/2504.06821)
-- AccelOpt [[Paper]](https://arxiv.org/abs/2511.15915)
-- Xolver [[Paper]](https://arxiv.org/abs/2506.14234)
-- MemGen [[Paper]](https://arxiv.org/abs/2509.24704)
-- SAGE [[Paper]](https://arxiv.org/abs/2512.17102)
-- AgentEvolver [[Paper]](https://arxiv.org/abs/2511.10395)
+- (arxiv'26) ExpSeek: Self-Triggered Experience Seeking for Web Agents [[Paper]](https://arxiv.org/abs/2601.08605)
+- (arxiv'25) Dynamic cheatsheet: Test-time learning with adaptive memory [[Paper]](https://arxiv.org/abs/2504.07952)
+- (arxiv'25) Memento: Fine-tuning llm agents without fine-tuning llms [[Paper]](https://arxiv.org/abs/2508.16153)
+- (ICLR'26) Gepa: Reflective prompt evolution can outperform reinforcement learning [[Paper]](https://arxiv.org/abs/2507.19457)
+- (ICLR'26) Agentic context engineering: Evolving contexts for self-improving language models [[Paper]](https://arxiv.org/abs/2510.04618)
+
+
+#### Lifelong Experience Evolution 🔥
+
+- (arxiv'25) Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team [[Paper]](https://arxiv.org/abs/2506.14234)
+- (arxiv'25) Agentevolver: Towards efficient self-evolving agent system [[Paper]](https://arxiv.org/abs/2511.10395)
+- (arxiv'26) Evolving Programmatic Skill Networks [[Paper]](https://arxiv.org/abs/2601.03509)
+- (arxiv'26) Meta Context Engineering via Agentic Skill Evolution [[Paper]](https://arxiv.org/abs/2601.21557)
+- (arxiv'26) Self-Consolidation for Self-Evolving Agents [[Paper]](https://arxiv.org/abs/2602.01966)
+- (ICLR'26) Reasoningbank: Scaling agent self-evolving with reasoning memory [[Paper]](https://arxiv.org/abs/2509.25140)
+- (arxiv'25) Evolver: Self-evolving llm agents through an experience-driven lifecycle [[Paper]](https://arxiv.org/abs/2510.16079)
+- (arxiv'25) Training-free group relative policy optimization [[Paper]](https://arxiv.org/abs/2510.08191)
+- (arxiv'25) Flex: Continuous agent evolution via forward learning from experience [[Paper]](https://arxiv.org/abs/2511.06449)
+- (arxiv'25) Agent learning via early experience [[Paper]](https://arxiv.org/abs/2510.08558)
+- (COLM'25)Inducing programmatic skills for agentic tasks [[Paper]](https://arxiv.org/abs/2504.06821)
+- (arxiv'25) Reinforcement learning for self-improving agent with skill library [[Paper]](https://arxiv.org/abs/2512.17102)
+- (arxiv'25) AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization [[Paper]](https://arxiv.org/abs/2511.15915)
+- (ICLR'26) Memgen: Weaving generative latent memory for self-evolving agents [[Paper]](https://arxiv.org/abs/2509.24704)
+- (arxiv'25) Latentevolve: Self-evolving test-time scaling in latent space [[Paper]](https://arxiv.org/abs/2509.24771)
+
 
 ### Modular Architecture Evolution
 
-#### Interaction Protocol Evolution
-- Think-in-Memory (TiM) [[Paper]](https://arxiv.org/abs/2311.08719)
-- Memory-of-Thought (MoT) [[Paper]](https://arxiv.org/abs/2305.05181)
-- ReadAgent [[Paper]](https://arxiv.org/abs/2402.09727)
-- MemoryBank [[Paper]](https://arxiv.org/abs/2305.10250)
-- General Agentic Memory (GAM) [[Paper]](https://arxiv.org/abs/2511.18423)
-- MemGPT [[Paper]](https://arxiv.org/abs/2310.08560)
-- LightMem [[Paper]](https://arxiv.org/abs/2510.18866)
-- AgentFold [[Paper]](https://arxiv.org/abs/2510.24699)
-- HierSearch [[Paper]](https://arxiv.org/abs/2508.08088)
 
-#### Memory Topology Evolution
-- A-MEM [[Paper]](https://arxiv.org/abs/2502.12110)
-- Mem0 [[Paper]](https://arxiv.org/abs/2504.19413)
-- CAM [[Paper]](https://arxiv.org/abs/2510.05520)
-- MemAct [[Paper]](https://arxiv.org/abs/2510.12635)
-- Mem-α [[Paper]](https://arxiv.org/abs/2509.25911)
-- EvoRoute [[Paper]](https://arxiv.org/abs/2601.02695)
-- MemEvolve [[Paper]](https://arxiv.org/abs/2512.18746)
+#### Interaction Protocol Evolution
+
+- (arxiv'23) Think-in-memory: Recalling and post-thinking enable llms with long-term memory [[Paper]](https://arxiv.org/abs/2311.08719)
+- (EMNLP'23) Mot: Memory-of-thought enables chatgpt to self-improve [[Paper]](https://aclanthology.org/2023.emnlp-main.392/)
+- (ICML'24) A human-inspired reading agent with gist memory of very long contexts [[Paper]](https://arxiv.org/abs/2402.09727)
+- (ICLR'26) Lightmem: Lightweight and efficient memory-augmented generation [[Paper]](https://arxiv.org/abs/2510.18866)
+- (arxiv'25) General agentic memory via deep research [[Paper]](https://arxiv.org/abs/2511.18423)
+- (arxiv'23) MemGPT: Towards LLMs as Operating Systems[[Paper]](https://arxiv.org/abs/2310.08560)
+- (AAAI'24) Memorybank: Enhancing large language models with long-term memory [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29946)
+- (ICLR'26) AgentFold: Long-Horizon Web Agents with Proactive Context Management [[Paper]](https://arxiv.org/abs/2510.24699)
+
+
+#### Memory Architecture Evolution
+
+- (ICML'25) M+: Extending MemoryLLM with Scalable Long-Term Memory
+- (arxiv'26) MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents [[Paper]](https://arxiv.org/abs/2602.02474)
+- (arxiv'26) MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory [[Paper]](https://arxiv.org/abs/2601.03192)
+- (NeurIPS'25) A-mem: Agentic memory for llm agents [[Paper]](https://arxiv.org/abs/2502.12110)
+- (arxiv'25) Mem0: Building production-ready ai agents with scalable long-term memory [[Paper]](https://arxiv.org/abs/2504.19413)
+- (NeurIPS'25) Cam: A constructivist view of agentic memory for llm-based reading comprehension [[Paper]](https://arxiv.org/abs/2510.05520)
+- (arxiv'25) Memory as action: Autonomous context curation for long-horizon agentic tasks [[Paper]](https://arxiv.org/abs/2510.12635)
+- (arxiv'25) Mem-α: Learning Memory Construction via Reinforcement Learning [[Paper]](https://arxiv.org/abs/2509.25911)
+- (arxiv'25) Memevolve: Meta-evolution of agent memory systems [[Paper]](https://arxiv.org/abs/2512.18746)
+- (arxiv'26) EvoRoute: Experience-Driven Self-Routing LLM Agent Systems [[Paper]](https://arxiv.org/abs/2601.02695)
+
 
 #### Tool-Augmented Evolution
-- ReAct [[Paper]](https://arxiv.org/abs/2210.03629)
-- WebGPT [[Paper]](https://arxiv.org/abs/2112.09332)
-- PAL [[Paper]](https://arxiv.org/abs/2211.10435)
-- LATM [[Paper]](https://arxiv.org/abs/2305.17126)
-- CREATOR [[Paper]](https://arxiv.org/abs/2305.14318)
-- CRAFT [[Paper]](https://arxiv.org/abs/2309.17428)
-- TOOLMAKER [[Paper]](https://arxiv.org/abs/2502.11705)
-- VOYAGER [[Paper]](https://arxiv.org/abs/2305.16291)
+
+- (ICLR'26) Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning [[Paper]](https://arxiv.org/abs/2509.23285)
+- (ICLR'23) React: Synergizing reasoning and acting in language models [[Paper]](https://arxiv.org/abs/2210.03629)
+- (arxiv'21) Webgpt: Browser-assisted question-answering with human feedback [[Paper]](https://arxiv.org/abs/2112.09332)
+- (ICML'23) Pal: Program-aided language models [[Paper]](https://arxiv.org/abs/2211.10435)
+- (TMLR'24) Voyager: An open-ended embodied agent with large language models [[Paper]](https://arxiv.org/abs/2305.16291)
+- (ICLR'24) Large language models as tool makers [[Paper]](https://arxiv.org/abs/2305.17126)
+- (EMNLP'23 findings)Creator: Tool creation for disentangling abstract and concrete reasoning of large language models [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2023.findings-emnlp.462.pdf)
+- (ICLR'24) Craft: Customizing llms by creating and retrieving from specialized toolsets [[Paper]](https://arxiv.org/abs/2309.17428)
+- (ACL'25) Llm agents making agent tools [[Paper]](https://aclanthology.org/2025.acl-long.1266/)
+- (arxiv'25) Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution [[Paper]](https://arxiv.org/abs/2505.20286)
+
 
 ### Agentic Topology Evolution
 
+
 #### Offline Architecture Search
-- GPTSwarm [[Paper]](https://arxiv.org/abs/2402.16823)
-- AutoFlow [[Paper]](https://arxiv.org/abs/2407.12821)
-- ADAS [[Paper]](https://arxiv.org/abs/2408.08435)
-- AFLOW [[Paper]](https://arxiv.org/abs/2410.10762)
-- MAS-GPT [[Paper]](https://arxiv.org/abs/2503.03686)
+
+- (ICML'24) Language agents as optimizable graphs [[Paper]](https://arxiv.org/abs/2402.16823)
+- (ICLR'25) Scaling large language model-based multi-agent collaboration [[Paper]](https://arxiv.org/abs/2406.07155)
+- (arxiv'24) Autoflow: Automated workflow generation for large language model agents [[Paper]](https://arxiv.org/abs/2407.12821)
+- (ICLR'25) Aflow: Automating agentic workflow generation [[Paper]](https://arxiv.org/abs/2410.10762)
+- (ICLR'25) Automated design of agentic systems [[Paper]](https://arxiv.org/abs/2408.08435)
+- (ICML'25) MAS-GPT: Training LLMs to build LLM-based multi-agent systems [[Paper]](https://arxiv.org/abs/2503.03686)
+
 
 #### Runtime Dynamic Adaptation
-- AutoAgents [[Paper]](https://arxiv.org/abs/2309.17288)
-- EVOAGENT [[Paper]](https://arxiv.org/abs/2406.14228)
-- MASS [[Paper]](https://arxiv.org/abs/2502.02533)
-- AGP [[Paper]](https://arxiv.org/abs/2506.02951)
-- G-Designer [[Paper]](https://arxiv.org/abs/2410.11782)
-- MaAS [[Paper]](https://arxiv.org/abs/2502.04180)
-- ReMA [[Paper]](https://arxiv.org/abs/2503.09501)
 
-#### Structural Memory Evolution
-- SEDM [[Paper]](https://arxiv.org/abs/2509.09498)
-- G-Memory [[Paper]](https://arxiv.org/abs/2506.07398)
-- Collaborative Memory [[Paper]](https://arxiv.org/abs/2505.18279)
-- LatentMAS [[Paper]](https://arxiv.org/abs/2511.20639)
+- (COLM'25) Malt: Improving reasoning with multi-agent llm training [[Paper]](https://arxiv.org/abs/2412.01928)
+- (arxiv'25) Adaptive Graph Pruning for Multi-Agent Communication [[Paper]](https://arxiv.org/abs/2506.02951)
+- (IJCAI'24) Autoagents: A framework for automatic agent generation [[Paper]](https://arxiv.org/abs/2309.17288)
+- (NAACL'25) Evoagent: Towards automatic multi-agent generation via evolutionary algorithms [[Paper]](https://aclanthology.org/anthology-files/pdf/naacl/2025.naacl-long.315.pdf)
+- (ICML'25) G-designer: Architecting multi-agent communication topologies via graph neural networks [[Paper]](https://arxiv.org/abs/2410.11782)
+- (ICML'25) Multi-agent architecture search via agentic supernet [[Paper]](https://arxiv.org/abs/2502.04180)
+- (NeurIPS'25) Rema: Learning to meta-think for llms with multi-agent reinforcement learning [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/115462)
+- (ICLR'26) Multi-agent design: Optimizing agents with better prompts and topologies [[Paper]](https://arxiv.org/abs/2502.02533)
 
-## Model-Environment Co-Evolving
 
-### Environment Training
+#### Structural State Evolution
 
-#### Adaptive Curriculum Evolution
-- GenEnv [[Paper]](https://arxiv.org/abs/2512.19682)
-- Environment Tuning [[Paper]](https://arxiv.org/abs/2510.10197)
-- RLVE [[Paper]](https://arxiv.org/abs/2511.07317)
+- (NeurIPS'25 workshop) Sedm: Scalable self-evolving distributed memory for agents [[Paper]](https://arxiv.org/abs/2509.09498)
+- (arxiv'26) EvoConfig: Self-Evolving Multi-Agent Systems for Efficient Autonomous Environment Configuration [[Paper]](https://arxiv.org/abs/2601.16489)
+- (NeurIPS'25) G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems [[Paper]](https://arxiv.org/abs/2506.07398)
+- (arxiv'25) Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/116187)
+- (arxiv'25) Latent collaboration in multi-agent systems [[Paper]](https://arxiv.org/abs/2511.20639)
 
-#### Scalable Environment Evolution
-- DreamGym [[Paper]](https://arxiv.org/abs/2511.03773)
-- AutoEnv [[Paper]](https://arxiv.org/abs/2511.19304)
-- Endless Terminals [[Paper]](https://arxiv.org/abs/2601.16443)
-- Reasoning Gym [[Paper]](https://arxiv.org/abs/2505.24760)
-- GEM [[Paper]](https://arxiv.org/abs/2510.01051)
-- AgentGym [[Paper]](https://arxiv.org/abs/2406.04151)
+
+## Model-Environment Co-Evolution 🔥
+
+<h3 align="center">
+   <p align="center"><img width="100%" src="figs/co-evolving.png" /></p>
+
 
 ### Multi-Agent Policy Co-Evolution
-- OPTIMA [[Paper]](https://arxiv.org/abs/2410.08115)
-- MAPoRL [[Paper]](https://arxiv.org/abs/2502.18439)
-- MARFT [[Paper]](https://arxiv.org/abs/2504.16129)
-- CoMAS [[Paper]](https://arxiv.org/abs/2510.08529)
+
+- (ICLR'26) Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs [[Paper]](https://arxiv.org/abs/2510.11062)
+- (arxiv'25) Llm collaboration with multi-agent reinforcement learning [[Paper]](https://arxiv.org/abs/2508.04652)
+- (arxiv'26) Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing [[Paper]](https://arxiv.org/abs/2602.04837)
+- (ACL'25 findings) Optima: Optimizing effectiveness and efficiency for llm-based multi-agent system [[Paper]](https://aclanthology.org/2025.findings-acl.601.pdf)
+- (ACL'25) Maporl: Multi-agent post-co-training for collaborative large language models with reinforcement learning [[Paper]](https://aclanthology.org/2025.acl-long.1459/)
+- (arxiv'25) Marft: Multi-agent reinforcement fine-tuning [[Paper]](https://arxiv.org/abs/2504.16129)
+- (ICLR'26) CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards [[Paper]](https://arxiv.org/abs/2510.08529)
+
+
+### Environment Training 🔥
+
+
+#### Adaptive Curriculum Evolution
+
+- (arxiv'25) GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators [[Paper]](https://arxiv.org/abs/2512.19682)
+- (ICLR'26) Don't Just Fine-tune the Agent, Tune the Environment [[Paper]](https://arxiv.org/abs/2510.10197)
+- (arxiv'25) Rlve: Scaling up reinforcement learning for language models with adaptive verifiable environments [[Paper]](https://arxiv.org/abs/2511.07317)
+
+
+#### Scalable Environment Evolution
+
+- (ICLR'26) Scaling agent learning via experience synthesis [[Paper]](https://arxiv.org/abs/2511.03773)
+- (arxiv'25) AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning [[Paper]](https://arxiv.org/abs/2511.19304)
+- (arxiv'26) Endless Terminals: Scaling RL Environments for Terminal Agents [[Paper]](https://arxiv.org/abs/2601.16443)
+- (NeurIPS'25) REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/121745)
+- (ICLR'26) Gem: A gym for agentic llms [[Paper]](https://arxiv.org/abs/2510.01051)
+- (arxiv'24) AgentGym: Evolving Large Language Model-based Agents across Diverse Environments [[Paper]](https://arxiv.org/abs/2406.04151)
+
 
 # 📚 Related Survey Papers
-- (arXiv 2025) **Retrieval-Augmented Generation with Graphs (GraphRAG)** [[Paper]](https://arxiv.org/abs/2501.00309)
-- (arXiv 2024) **Graph Retrieval-Augmented Generation: A Survey** [[Paper]](https://arXiv.org/pdf/2408.08921)
-- (AIxSET 2024) **Graph Retrieval-Augmented Generation for Large Language Models: A Survey** [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
+- (arXiv 2025) Retrieval-Augmented Generation with Graphs (GraphRAG) [[Paper]](https://arxiv.org/abs/2501.00309)
+- (arXiv 2024) Graph Retrieval-Augmented Generation: A Survey [[Paper]](https://arXiv.org/pdf/2408.08921)
+- (AIxSET 2024) Graph Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
 
 
 # 🏆 Benchmarks
@@ -329,11 +431,13 @@ We welcome researchers to share related work to enrich this list or provide insi
 | ARC | General Knowledge | Visual | Abstraction, Few-Shot Reasoning | [💻 GitHub](https://github.com/fchollet/ARC-AGI) | [[Paper]](https://arxiv.org/abs/1911.01547) |
 | NarrativeQA | General Knowledge | Text | Long Context, Story Understanding | [💻 GitHub](https://github.com/google-deepmind/narrativeqa) | [[Paper]](https://aclanthology.org/Q18-1023/) |
 | LongBench | General Knowledge | Text | Long Context, Multi-Task Eval | [💻 GitHub](https://github.com/THUDM/LongBench) | [[Paper]](https://aclanthology.org/2024.acl-long.170/) |
+| HLE | General Knowledge | Multimodal | Frontier Knowledge, Un-googleable | [🤗 HF](https://huggingface.co/datasets/cais/hle) | [[Paper]](https://arxiv.org/abs/2501.14249) |
 
 ### Scientific Reasoning
 | Name | Domain | Modality | Feature | Link | Paper |
 | --- | --- | --- | --- | --- | --- |
 | GPQA | Scientific Reasoning | Text | Google-Proof, PhD-Level Experts | [💻 GitHub](https://github.com/idavidrein/gpqa) | [[Paper]](https://arxiv.org/abs/2311.12022) |
+| SuperGPQA | Scientific Reasoning | Text | 285 Disciplines, Light Industry/Agri | [🤗 HF](https://huggingface.co/datasets/m-a-p/SuperGPQA) | [[Paper]](https://arxiv.org/abs/2502.14739) |
 | SciBench | Scientific Reasoning | Text | College Science, Calculation | [💻 GitHub](https://github.com/mandyyyyii/scibench) | [[Paper]](https://arxiv.org/abs/2307.10635) |
 | ChemBench | Scientific Reasoning | Text | Chemistry, Autonomous Labs | [💻 GitHub](https://github.com/lamalab-org/chembench) | [[Paper]](https://arxiv.org/abs/2404.01475) |
 | SciQA | Scientific Reasoning | Text | Scientific QA, Knowledge Graph | [🤗 HF](https://huggingface.co/datasets/orkg/SciQA) | [[Paper]](https://www.nature.com/articles/s41598-023-33607-z) |
@@ -354,6 +458,9 @@ We welcome researchers to share related work to enrich this list or provide insi
 | BigCodeBench | Code Generation | Text | Complex Libraries, Instruction | [💻 GitHub](https://github.com/bigcode-project/bigcodebench) | [[Paper]](https://openreview.net/forum?id=YrycTjllL0) |
 | HumanEval | Code Generation | Text | Functional Correctness, Synthesis | [💻 GitHub](https://github.com/openai/human-eval) | [[Paper]](https://arxiv.org/abs/2107.03374) |
 | MBPP | Code Generation | Text | Basic Programming, Semantic | [💻 GitHub](https://github.com/google-research/google-research/blob/master/mbpp/README.md) | [[Paper]](https://arxiv.org/abs/2108.07732) |
+| EvalPlus | Code Generation | Text | Rigorous Eval, 80x Test Cases | [💻 GitHub](https://github.com/evalplus/evalplus) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b10e724de50e2362cfd04bfeb7d5668f-Abstract-Datasets_and_Benchmarks.html) |
+| MultiPL-E | Code Generation | Text | 18+ Languages, Parallel Corpus | [💻 GitHub](https://github.com/nuprl/MultiPL-E) | [[Paper]](https://arxiv.org/abs/2208.08227) |
+| CRUXEval | Code Generation | Text | Execution Simulation, CoT Focus | [💻 GitHub](https://github.com/facebookresearch/cruxeval) | [[Paper]](https://arxiv.org/abs/2401.03065) |
 
 ## Agentic Reasoning Capabilities
 
@@ -381,6 +488,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 | ALFWorld | Unified Frameworks | Text | Text-World, Household Tasks | [💻 GitHub](https://github.com/alfworld/alfworld) | [[Paper]](https://arxiv.org/abs/2010.03768) |
 | AgentBench | Unified Frameworks | Text | Comprehensive, Multi-Environment | [💻 GitHub](https://github.com/THUDM/AgentBench) | [[Paper]](https://arxiv.org/abs/2308.03688) |
 | GAIA | Unified Frameworks | Multimodal | General Assistant, Hard Tasks | [🤗 HF](https://huggingface.co/gaia-benchmark) | [[Paper]](https://openreview.net/forum?id=oOte_397Q4) |
+| DeepResearch Bench | Unified Frameworks | Text | Long-form Research, Citation Eval | [💻 GitHub](https://github.com/Ayanami0730/deep_research_bench) | [[Paper]](https://arxiv.org/abs/2506.11763) |
 
 ### Software Engineering & OS Operations
 | Name | Domain | Modality | Feature | Link | Paper |
@@ -408,6 +516,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Post-training & Alignment
 | Library | Key Features | Link | Paper |
 | --- | --- | --- | --- |
+| **slime** | High-Performance Training and Flexible Data Generation | [💻 GitHub](https://github.com/THUDM/slime)
 | **VeRL** | Provides a HybridFlow-based RL library with 3D-HybridEngine | [💻 GitHub](https://github.com/verl-project/verl) | [[Paper]](https://arxiv.org/abs/2409.19256) |
 | **OpenRLHF** | Supports distributed RLHF based on Ray and vLLM frameworks | [💻 GitHub](https://github.com/OpenRLHF/OpenRLHF) | [[Paper]](https://arxiv.org/abs/2405.11143) |
 | **TRL** | Offers a full-stack library for SFT, Reward Modeling, and RL alignment | [💻 GitHub](https://github.com/huggingface/trl) | [[Paper]](https://github.com/huggingface/trl) |
@@ -423,6 +532,41 @@ We welcome researchers to share related work to enrich this list or provide insi
 | --- | --- | --- | --- |
 | **vLLM** | Serves models with high throughput utilizing PagedAttention | [💻 GitHub](https://github.com/vllm-project/vllm) | [[Paper]](https://dl.acm.org/doi/10.1145/3600006.3613165) |
 | **SGLang** | Manages structured generation using RadixAttention for aggressive cache reuse | [💻 GitHub](https://github.com/sgl-project/sglang) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c7dc7d1dd443c422b8a4063853de4e23-Abstract-Conference.html) | 
+
+# 🚀 Applications
+
+## Automated Scientific Discovery
+| Application | Domain | Environment | Evolution Mechanism | Core Technology | Breakthrough Results | Link | Paper |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **The AI Scientist** | Academic Research | Simulated review system | Gen-Review cycle | Auto peer-review | Paper auto-generation | [💻 GitHub](https://github.com/SakanaAI/AI-Scientist) | [[Paper]](https://arxiv.org/abs/2408.06292) |
+| **AlphaProof** | Logic & Math | Lean verifier | Search-Verify loop | Prover net | IMO 2024 silver-level | [🌐 Web](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/) | [[Paper]](https://www.nature.com/articles/s41586-025-09421-4) |
+| **ChemCrow** | Chemistry | Lab tools | Plan-Safety-Execute loop | Robotics control | Generalized lab automation | [💻 GitHub](https://github.com/ur-whitelab/chemcrow-public) | [[Paper]](https://arxiv.org/abs/2304.05376) |
+| **Coscientist** | Automated Science | Lab env; hardware APIs | Hypothesis–Debate loop | Multi-agent debate | Zero-shot hardware control | [💻 GitHub](https://github.com/gomesgroup/coscientist) | [[Paper]](https://arxiv.org/abs/2502.18864) |
+| **GNoME** | Materials Science | DFT simulation space | Active learning loop | GNN predictor | 2.2M stable crystals | [💻 GitHub](https://github.com/google-deepmind/materials_discovery) | [[Paper]](https://www.nature.com/articles/s41586-023-06735-9) |
+| **A-Lab** | Materials Science | Robotic lab | Active-learning synthesis | ML-guided planning | 71% synthesis success | [🌐 Web](https://www.nature.com/articles/s41586-023-06734-w) | [[Paper]](https://www.nature.com/articles/s41586-023-06734-w) |
+| **CRESt** | Catalysis Discovery | Multimodal robotic lab | Multimodal BO loop | KABO; VLM | 9.3× cost-performance gain | [🌐 Web](https://www.nature.com/articles/s41586-025-09640-5) | [[Paper]](https://www.nature.com/articles/s41586-025-09640-5) |
+| **FARS** | Academic Research | Open research workspace | Hypothesis loop | Multi-agent automation | Auto paper generation | [🌐 Web](https://analemma.ai/blog/introducing-fars/) | [[Paper]](https://analemma.ai/blog/introducing-fars/) |
+
+## Autonomous Software Engineering
+| Application | Domain | Environment | Evolution Mechanism | Core Technology | Breakthrough Results | Link | Paper |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **SWE-agent** | Software Engineering | Terminal; codebase; CI | Error-feedback correction | ACI interface | High bug-fix success rate | [💻 GitHub](https://github.com/SWE-agent/SWE-agent) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6060b4e76adbfbcd170d1ffc19e26fc1-Abstract-Conference.html) |
+| **Claude Code** | Long-term Engineering | Project history | Skill accumulation | Skill memory | Senior-level coding | [🌐 Web](https://claude.com/product/claude-code) | [[Paper]](https://claude.com/product/claude-code) |
+| **Manus** | Software Engineering | Cloud VM sandbox | Plan-Act-Verify loop | CodeAct | Human-like env interaction | [🌐 Web](https://manus.im/) | [[Paper]](https://manus.im/) |
+| **OpenClaw** | Local Agents | Local FS | Community skill | Skill hub | Long-term local adaptation | [🌐 Web](https://openclaw.ai/) | [[Paper]](https://openclaw.ai/) |
+| **Devin** | Software Engineering | Browser; terminal; IDE | Web-based correction | Tool autonomy | Fully autonomous SWE | [🌐 Web](https://devin.ai/) | [[Paper]](https://devin.ai/) |
+| **Cursor** | Human-AI Coding | Repo index; shadow env | Human-AI co-evolution | Shadow workspace | Productivity co-adaptation | [🌐 Web](https://cursor.com/) | [[Paper]](https://cursor.com/) |
+
+## Open-World Simulation
+| Application | Domain | Environment | Evolution Mechanism | Core Technology | Breakthrough Results | Link | Paper |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Voyager** | Gaming (Minecraft) | Minecraft open world | Explore–Code–Store | Auto curriculum | 15.3× faster progression | [💻 GitHub](https://github.com/MineDojo/Voyager) | [[Paper]](https://arxiv.org/abs/2305.16291) |
+| **GITM** | Gaming (Minecraft) | Minecraft open world | Decompose-Plan-Act | Text memory | +47.5% success (Diamond) | [💻 GitHub](https://github.com/OpenGVLab/GITM) | [[Paper]](https://arxiv.org/abs/2305.17144) |
+| **Cradle** | General Computer Control | GUI interface | Observe-Plan-Act loop | MLLM; skill curation | API-free computer control | [💻 GitHub](https://github.com/BAAI-Agents/Cradle) | [[Paper]](https://arxiv.org/abs/2403.03186) |
+| **Project Sid** | Digital Civilization | Multi-agent society | Social norm co-evolution | PIANO | Emergent economy & laws | [💻 GitHub](https://github.com/altera-al/project-sid) | [[Paper]](https://arxiv.org/abs/2411.00114) |
+| **Generative Agents** | Social Simulation | Virtual town sandbox | Observe-Reflect-Plan | Reflection | Emergent group activities | [💻 GitHub](https://github.com/joonspk-research/generative_agents) | [[Paper]](https://dl.acm.org/doi/10.1145/3586183.3606763) |
+| **SIMA** | Embodied AI | Generative 3D worlds | GenEnv feedback loop | World model | Embodied data reduction | [🌐 Web](https://deepmind.google/blog/sima-2/) | [[Paper]](https://arxiv.org/abs/2512.04797) |
+| **Genie** | World Modeling | Text-to-3D worlds | Interactive world loop | Generative world model | Persistent 3D worlds | [🌐 Web](https://deepmind.google/models/genie/) | [[Paper]](https://arxiv.org/abs/2402.15391) |
 
 # 🍀 Citation
 If you find this survey helpful, please cite our paper:
