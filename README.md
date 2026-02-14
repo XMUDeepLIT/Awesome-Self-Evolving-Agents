@@ -18,7 +18,7 @@ If you find this survey helpful, please cite our paper:
 
 # 🎉 News
 - **[2026-02]** We release the [TTCS](https://github.com/XMUDeepLIT/TTCS), a self-evolving framework.
-- **[2026-02]** We release the [Agentic Self-Evolution survey](https://github.com/DEEP-PolyU/Awesome-GraphRAG).
+- **[2026-02]** We release the [Agentic Self-Evolution survey](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
 
 ---
 
