@@ -405,9 +405,9 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 
 # 📚 Related Survey Papers
-- (arXiv 2025) Retrieval-Augmented Generation with Graphs (GraphRAG) [[Paper]](https://arxiv.org/abs/2501.00309)
-- (arXiv 2024) Graph Retrieval-Augmented Generation: A Survey [[Paper]](https://arXiv.org/pdf/2408.08921)
-- (AIxSET 2024) Graph Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
+- (arXiv 2024) A Survey on Self-Evolution of Large Language Models [[Paper]](https://arxiv.org/abs/2404.14387)
+- (TMLR 2026) A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence [[Paper]](https://arxiv.org/abs/2507.21046)
+- (arXiv 2025) A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems [[Paper]](https://arxiv.org/abs/2508.07407)
 
 
 # 🏆 Benchmarks
