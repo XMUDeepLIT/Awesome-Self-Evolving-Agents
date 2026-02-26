@@ -13,6 +13,8 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 📫 **Contact us via emails:** `{xiangzhishang,yangchengyi}@stu.xmu.edu.cn`, `qinggang.zhang@polyu.edu.hk`
 
+**📃 Please [cite our paper](#-citation)** if you find our survey or repository helpful!
+
 ---
 
 # 🎉 News
@@ -556,7 +558,7 @@ Agentic Self-Evolving represents a paradigm of autonomous continuous improvement
 | **Genie** | World Modeling | Text-to-3D worlds | Interactive world loop | Generative world model | Persistent 3D worlds | [🌐 Web](https://deepmind.google/models/genie/) | [[Paper]](https://arxiv.org/abs/2402.15391) |
 
 
-# 🍀 Citation
+## 🍀 Citation 
 If you find this survey helpful, please cite our paper:
 
 ```
@@ -565,5 +567,7 @@ If you find this survey helpful, please cite our paper:
   author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and others}
 }
 ```
+
+
 
 
