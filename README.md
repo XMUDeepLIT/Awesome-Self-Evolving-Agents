@@ -18,11 +18,12 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 ---
 
-<div>
-<h3 align="left">
-       <p align="center"><img width="100%" src="figs/trend.png" /></p>
-    <p align="center"><em>Overview of Agentic Self-Evolving Framework. </em></p>
-</div>
+# 📈 Trend of Agentic Self-Evolving Research
+
+<h3 align="center">
+   <p align="center"><img width="100%" src="figs/trend.png" /></p>
+    <p align="center"><em>The development trends in the field of Agentic Self-Evolving with representative works.</em></p>
+
 
 Agentic Self-Evolving represents a paradigm shift in AI development, enabling systems to autonomously improve through three key dimensions:
 
@@ -40,11 +41,6 @@ Agentic Self-Evolving represents a paradigm of autonomous continuous improvement
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/intro.png" /></p>
     <p align="center"><em>The three dimensions of Agentic Self-Evolving.</em></p>
-
-
-
-# 📫 Contact Us
-We welcome researchers to share related work to enrich this list or provide insightful comments on our survey on Agentic Self-Evolving. Feel free to reach out to the corresponding authors: [Zhishang Xiang](xiangzhishang@stu.xmu.edu.cn), [Chengyi Yang](yangchengyi@stu.xmu.edu.cn).
 
 
 ## Table of Content
@@ -90,13 +86,6 @@ We welcome researchers to share related work to enrich this list or provide insi
     - [Autonomous Software Engineering](#autonomous-software-engineering)
     - [Open-World Simulation](#open-world-simulation)
 - [⭐ Star History](#-star-history)
-
-
-# 📈 Trend of Agentic Self-Evolving Research
-
-<h3 align="center">
-   <p align="center"><img width="100%" src="figs/trend.png" /></p>
-    <p align="center"><em>The development trends in the field of Agentic Self-Evolving with representative works.</em></p>
 
 
 
@@ -562,6 +551,10 @@ We welcome researchers to share related work to enrich this list or provide insi
 | **Generative Agents** | Social Simulation | Virtual town sandbox | Observe-Reflect-Plan | Reflection | Emergent group activities | [💻 GitHub](https://github.com/joonspk-research/generative_agents) | [[Paper]](https://dl.acm.org/doi/10.1145/3586183.3606763) |
 | **SIMA** | Embodied AI | Generative 3D worlds | GenEnv feedback loop | World model | Embodied data reduction | [🌐 Web](https://deepmind.google/blog/sima-2/) | [[Paper]](https://arxiv.org/abs/2512.04797) |
 | **Genie** | World Modeling | Text-to-3D worlds | Interactive world loop | Generative world model | Persistent 3D worlds | [🌐 Web](https://deepmind.google/models/genie/) | [[Paper]](https://arxiv.org/abs/2402.15391) |
+
+# 📫 Contact Us
+We welcome researchers to share related work to enrich this list or provide insightful comments on our survey on Agentic Self-Evolving. Feel free to reach out to us: [Zhishang Xiang](xiangzhishang@stu.xmu.edu.cn), [Chengyi Yang](yangchengyi@stu.xmu.edu.cn).
+
 
 
 # 🍀 Citation
