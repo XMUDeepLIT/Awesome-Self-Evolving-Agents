@@ -9,7 +9,7 @@
 </div> -->
 
 
-This repository contains a curated list of resources on Self-Evolving Agents, which are classified according to "[**Agentic Self-Evolution for Large Language Models**]()". Continuously updating, stay tuned!
+This repository contains a curated list of resources on Self-Evolving Agents, which are classified according to "[**Agentic Self-Evolving for Large Language Models**]()". Continuously updating, stay tuned!
 
 # 🍀 Citation
 If you find this survey helpful, please cite our paper:
@@ -30,15 +30,15 @@ If you find this survey helpful, please cite our paper:
 
 Agentic Self-Evolution represents a paradigm shift in AI development, enabling systems to autonomously improve through three key dimensions:
 
-- **Model-Centric Self-Evolving**: Focuses on improving the model itself through inference-based evolution (parallel sampling, sequential self-correction, structured reasoning) and training-based evolution (synthesis-driven offline and exploration-driven online self-evolving).
+- **Model-Centric Self-Evolution**: Focuses on improving the model itself through inference-based evolution (parallel sampling, sequential self-correction, structured reasoning) and training-based evolution (synthesis-driven offline and exploration-driven online self-evolving).
 
-- **Environment-Centric Self-Evolving**: Enhances the agent's interaction with external knowledge and experience through static knowledge evolution, dynamic experience evolution, modular architecture evolution, and agentic topology evolution.
+- **Environment-Centric Self-Evolution**: Enhances the agent's interaction with external knowledge and experience through static knowledge evolution, dynamic experience evolution, modular architecture evolution, and agentic topology evolution.
 
-- **Model-Environment Co-Evolving**: Enables simultaneous evolution of both the model and its environment through environment training and multi-agent policy co-evolution.
+- **Model-Environment Co-Evolution**: Enables simultaneous evolution of both the model and its environment through environment training and multi-agent policy co-evolution.
 
 ---
 
-# Agentic Self-Evolution
+# Agentic Self-Evolving
 Agentic Self-Evolution represents a paradigm of autonomous continuous improvement, where an agent progressively enhances its capabilities through self-driven learning. It is characterized by two essential properties: **(i) Strong autonomy with minimal human supervision**, enabling the agent to generate learning signals without relying on external annotations. **(ii) Actively exploration through interaction**, where the agent actively interacts with itself and the external environment to discover feedback and learning opportunities.
 
 <h3 align="center">
@@ -56,7 +56,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - [📫 Contact Us](#-contact-us)
 - [📈 Trend of Agentic Self-Evolution Research](#-trend-of-agentic-self-evolution-research)
 - [📜 Research Papers](#-research-papers)
-    - [Model-Centric Self-Evolving](#model-centric-self-evolving)
+    - [Model-Centric Self-Evolution](#model-centric-self-evolving)
         - [Inference-Based Evolution](#inference-based-evolution)
             - [Parallel Sampling](#parallel-sampling)
             - [Sequential Self-Correction](#sequential-self-correction)
@@ -64,7 +64,7 @@ We welcome researchers to share related work to enrich this list or provide insi
         - [Training-Based Evolution 🔥](#training-based-evolution)
             - [Synthesis-Driven Offline Self-Evolving](#synthesis-driven-offline-self-evolving)
             - [Exploration-Driven Online Self-Evolving 🔥](#exploration-driven-online-self-evolving)
-    - [Environment-Centric Self-Evolving](#environment-centric-self-evolving)
+    - [Environment-Centric Self-Evolution](#environment-centric-self-evolving)
         - [Static Knowledge Evolution](#static-knowledge-evolution)
             - [Agentic Retrieval-Augmented Generation](#agentic-retrieval-augmented-generation)
             - [Reasoning-Driven Deep Research](#reasoning-driven-deep-research)
@@ -80,7 +80,7 @@ We welcome researchers to share related work to enrich this list or provide insi
             - [Offline Architecture Search](#offline-architecture-search)
             - [Runtime Dynamic Adaptation](#runtime-dynamic-adaptation)
             - [Structural Memory Evolution](#structural-memory-evolution)
-    - [Model-Environment Co-Evolving 🔥](#model-environment-co-evolving)
+    - [Model-Environment Co-Evolution 🔥](#model-environment-co-evolving)
         - [Multi-Agent Policy Co-Evolution](#multi-agent-policy-co-evolution)
         - [Environment Training 🔥](#environment-training)
             - [Adaptive Curriculum Evolution](#adaptive-curriculum-evolution)
