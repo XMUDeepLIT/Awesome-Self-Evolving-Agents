@@ -1,4 +1,4 @@
-# Awesome-Self-Evolving-Agents (Self-Evolving Agents Survey)
+# Awesome-Self-Evolving-Agents
 
 <!-- <div align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
