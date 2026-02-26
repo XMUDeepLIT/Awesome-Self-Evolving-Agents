@@ -37,6 +37,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 - **Model-Environment Co-Evolution**: Enables simultaneous evolution of both the model and its environment through environment training and multi-agent policy co-evolution.
 
+## 📈 Trends
 <div>
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/trend.png" /></p>
@@ -47,9 +48,8 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 
 ## Table of Content
-- [🍀 Citation](#-citation)
-- [📫 Contact Us](#-contact-us)
-- [📈 Trend of Agentic Self-Evolving Research](#-trend-of-agentic-self-evolution-research)
+- [🔥 News](#-news)
+- [📚 Related Survey Papers](#-related-survey-papers)
 - [📜 Research Papers](#-research-papers)
     - [Model-Centric Self-Evolution](#model-centric-self-evolving)
         - [Inference-Based Evolution](#inference-based-evolution)
@@ -80,16 +80,19 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
         - [Environment Training 🔥](#environment-training)
             - [Adaptive Curriculum Evolution](#adaptive-curriculum-evolution)
             - [Scalable Environment Evolution](#scalable-environment-evolution)
-
-- [📚 Related Survey Papers](#-related-survey-papers)
 - [🏆 Benchmarks](#-benchmarks)
 - [💻 Open Source Libraries](#-open-source-libraries)
 - [🚀 Applications](#-applications)
     - [Automated Scientific Discovery](#automated-scientific-discovery)
     - [Autonomous Software Engineering](#autonomous-software-engineering)
     - [Open-World Simulation](#open-world-simulation)
-- [⭐ Star History](#-star-history)
+- [🍀 Citation](#-citation)
+  
 
+# 📚 Related Survey Papers
+- (arXiv 2024) A Survey on Self-Evolution of Large Language Models [[Paper]](https://arxiv.org/abs/2404.14387)
+- (TMLR 2026) A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence [[Paper]](https://arxiv.org/abs/2507.21046)
+- (arXiv 2025) A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems [[Paper]](https://arxiv.org/abs/2508.07407)
 
 
 # 📜 Research Papers
@@ -390,13 +393,6 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (NeurIPS'25) REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/121745)
 - (ICLR'26) Gem: A gym for agentic llms [[Paper]](https://arxiv.org/abs/2510.01051)
 - (arxiv'24) AgentGym: Evolving Large Language Model-based Agents across Diverse Environments [[Paper]](https://arxiv.org/abs/2406.04151)
-
-
-# 📚 Related Survey Papers
-- (arXiv 2024) A Survey on Self-Evolution of Large Language Models [[Paper]](https://arxiv.org/abs/2404.14387)
-- (TMLR 2026) A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence [[Paper]](https://arxiv.org/abs/2507.21046)
-- (arXiv 2025) A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems [[Paper]](https://arxiv.org/abs/2508.07407)
-
 
 # 🏆 Benchmarks
 
