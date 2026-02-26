@@ -19,10 +19,15 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 # 🎉 News
 - **[2026-02]** We release the [TTCS](https://github.com/XMUDeepLIT/TTCS), a self-evolving framework.
-- **[2026-02]** We release the [Agentic Self-Evolving survey](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
+- **[2026-02]** We release the [Self-Evolving Agents survey](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
+
 
 ---
-
+<div>
+<h3 align="center">
+   <p align="center"><img width="100%" src="figs/intro.png" /></p>
+    <p align="center"><em>A Comprehensive Taxonomy of Self-Evolving Agents.</em></p>
+</div>
 
 Agentic Self-Evolving represents a paradigm shift in AI development, enabling systems to autonomously improve through three key dimensions:
 
@@ -35,17 +40,10 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 <div>
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/trend.png" /></p>
-    <p align="center"><em>The development trends in the field of Agentic Self-Evolving with representative works.</em></p>
+    <p align="center"><em>The Development Trends of Self-Evolving Agents with Representative Works.</em></p>
 </div>
 
 ---
-
-# Agentic Self-Evolving
-Agentic Self-Evolving represents a paradigm of autonomous continuous improvement, where an agent progressively enhances its capabilities through self-driven learning. It is characterized by two essential properties: **(i) Strong autonomy with minimal human supervision**, enabling the agent to generate learning signals without relying on external annotations. **(ii) Actively exploration through interaction**, where the agent actively interacts with itself and the external environment to discover feedback and learning opportunities.
-
-<h3 align="center">
-   <p align="center"><img width="100%" src="figs/intro.png" /></p>
-    <p align="center"><em>The three dimensions of Agentic Self-Evolving.</em></p>
 
 
 ## Table of Content
