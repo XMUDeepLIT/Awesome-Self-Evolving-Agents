@@ -7,26 +7,20 @@
      <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents"/></a>
 </div>
 
-# 🎉 News
-- **[2026-02]** We release the [TTCS](https://github.com/XMUDeepLIT/TTCS), a self-evolving framework.
-- **[2026-02]** We release the [Agentic Self-Evolving survey](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
-
----
-
-
-<h2 id="about">📖 About</h2> 
-
 This repository provides a comprehensive collection of research papers, benchmarks, and open-source projects on **Self-Evolving Agents**. It includes contents from our survey paper 📖<em>"[**A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution**](https://www.researchgate.net/publication/401016261_A_Systematic_Survey_of_Self-Evolving_Agents_From_Model-Centric_to_Environment-Driven_Co-Evolution)"</em> and will be continuously updated.
 
 🤗 **You are very welcome to contribute to this repository** by launching an issue or a pull request. If you find any missing resources or come across interesting new research works, please don’t hesitate to open an issue or submit a PR!
 
 📫 **Contact us via emails:** `{xiangzhishang,yangchengyi}@stu.xmu.edu.cn`, `qinggang.zhang@polyu.edu.hk`
 
-<div>
-<h3 align="center">
-   <p align="center"><img width="100%" src="figs/trend.png" /></p>
-    <p align="center"><em>The development trends in the field of Agentic Self-Evolving with representative works.</em></p>
-</div>
+---
+
+# 🎉 News
+- **[2026-02]** We release the [TTCS](https://github.com/XMUDeepLIT/TTCS), a self-evolving framework.
+- **[2026-02]** We release the [Agentic Self-Evolving survey](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
+
+---
+
 
 Agentic Self-Evolving represents a paradigm shift in AI development, enabling systems to autonomously improve through three key dimensions:
 
@@ -35,6 +29,12 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - **Environment-Centric Self-Evolution**: Enhances the agent's interaction with external knowledge and experience through static knowledge evolution, dynamic experience evolution, modular architecture evolution, and agentic topology evolution.
 
 - **Model-Environment Co-Evolution**: Enables simultaneous evolution of both the model and its environment through environment training and multi-agent policy co-evolution.
+
+<div>
+<h3 align="center">
+   <p align="center"><img width="100%" src="figs/trend.png" /></p>
+    <p align="center"><em>The development trends in the field of Agentic Self-Evolving with representative works.</em></p>
+</div>
 
 ---
 
