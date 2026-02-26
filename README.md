@@ -18,17 +18,17 @@ If you find this survey helpful, please cite our paper:
 
 # 🎉 News
 - **[2026-02]** We release the [TTCS](https://github.com/XMUDeepLIT/TTCS), a self-evolving framework.
-- **[2026-02]** We release the [Agentic Self-Evolution survey](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
+- **[2026-02]** We release the [Agentic Self-Evolving survey](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
 
 ---
 
 <div>
 <h3 align="left">
        <p align="center"><img width="100%" src="figs/trend.png" /></p>
-    <p align="center"><em>Overview of Agentic Self-Evolution Framework. </em></p>
+    <p align="center"><em>Overview of Agentic Self-Evolving Framework. </em></p>
 </div>
 
-Agentic Self-Evolution represents a paradigm shift in AI development, enabling systems to autonomously improve through three key dimensions:
+Agentic Self-Evolving represents a paradigm shift in AI development, enabling systems to autonomously improve through three key dimensions:
 
 - **Model-Centric Self-Evolution**: Focuses on improving the model itself through inference-based evolution (parallel sampling, sequential self-correction, structured reasoning) and training-based evolution (synthesis-driven offline and exploration-driven online self-evolving).
 
@@ -39,22 +39,22 @@ Agentic Self-Evolution represents a paradigm shift in AI development, enabling s
 ---
 
 # Agentic Self-Evolving
-Agentic Self-Evolution represents a paradigm of autonomous continuous improvement, where an agent progressively enhances its capabilities through self-driven learning. It is characterized by two essential properties: **(i) Strong autonomy with minimal human supervision**, enabling the agent to generate learning signals without relying on external annotations. **(ii) Actively exploration through interaction**, where the agent actively interacts with itself and the external environment to discover feedback and learning opportunities.
+Agentic Self-Evolving represents a paradigm of autonomous continuous improvement, where an agent progressively enhances its capabilities through self-driven learning. It is characterized by two essential properties: **(i) Strong autonomy with minimal human supervision**, enabling the agent to generate learning signals without relying on external annotations. **(ii) Actively exploration through interaction**, where the agent actively interacts with itself and the external environment to discover feedback and learning opportunities.
 
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/intro.png" /></p>
-    <p align="center"><em>The three dimensions of Agentic Self-Evolution.</em></p>
+    <p align="center"><em>The three dimensions of Agentic Self-Evolving.</em></p>
 
 
 
 # 📫 Contact Us
-We welcome researchers to share related work to enrich this list or provide insightful comments on our survey on Agentic Self-Evolution. Feel free to reach out to the corresponding authors: [Zhishang Xiang](xiangzhishang@stu.xmu.edu.cn), [Chengyi Yang](yangchengyi@stu.xmu.edu.cn).
+We welcome researchers to share related work to enrich this list or provide insightful comments on our survey on Agentic Self-Evolving. Feel free to reach out to the corresponding authors: [Zhishang Xiang](xiangzhishang@stu.xmu.edu.cn), [Chengyi Yang](yangchengyi@stu.xmu.edu.cn).
 
 
 ## Table of Content
 - [🍀 Citation](#-citation)
 - [📫 Contact Us](#-contact-us)
-- [📈 Trend of Agentic Self-Evolution Research](#-trend-of-agentic-self-evolution-research)
+- [📈 Trend of Agentic Self-Evolving Research](#-trend-of-agentic-self-evolution-research)
 - [📜 Research Papers](#-research-papers)
     - [Model-Centric Self-Evolution](#model-centric-self-evolving)
         - [Inference-Based Evolution](#inference-based-evolution)
@@ -96,11 +96,11 @@ We welcome researchers to share related work to enrich this list or provide insi
 - [⭐ Star History](#-star-history)
 
 
-# 📈 Trend of Agentic Self-Evolution Research
+# 📈 Trend of Agentic Self-Evolving Research
 
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/trend.png" /></p>
-    <p align="center"><em>The development trends in the field of Agentic Self-Evolution with representative works.</em></p>
+    <p align="center"><em>The development trends in the field of Agentic Self-Evolving with representative works.</em></p>
 
 
 
