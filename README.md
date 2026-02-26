@@ -1,16 +1,20 @@
 # Awesome-Self-Evolving-Agents
 
-<!-- <div align="center">
+<div align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-green.svg"/></a>
-    <a href="https://arxiv.org/abs/2501.13958" target="_blank"><img src="https://img.shields.io/badge/Paper-Arxiv-red?logo=arxiv&style=flat-square" alt="arXiv:2506.08938"></a>
-    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/last-commit/DEEP-PolyU/Awesome-GraphRAG?color=blue"/></a>
-    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG"/></a>
-</div> -->
+     <a href="https://www.researchgate.net/publication/401016261_A_Systematic_Survey_of_Self-Evolving_Agents_From_Model-Centric_to_Environment-Driven_Co-Evolution" target="_blank"><img src="https://img.shields.io/badge/Paper-Arxiv-red?logo=arxiv&style=flat-square" alt="arXiv:2602.05665"></a>
+     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents"/></a>
+</div>
 
 
 This repository provides a comprehensive collection of research papers, benchmarks, and open-source projects on **Self-Evolving Agents**. It includes contents from our survey paper 📖<em>"[**A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution**](https://www.researchgate.net/publication/401016261_A_Systematic_Survey_of_Self-Evolving_Agents_From_Model-Centric_to_Environment-Driven_Co-Evolution)"</em> and will be continuously updated.
 
+🤗 **You are very welcome to contribute to this repository** by launching an issue or a pull request. If you find any missing resources or come across interesting new research works, please don’t hesitate to open an issue or submit a PR!
+
+📫 **Contact us via emails:** `xiangzhishang@stu.xmu.edu.cn`, `yangchengyi@stu.xmu.edu.cn`, `qinggang.zhang@polyu.edu.hk`
+
+---
 
 # 🎉 News
 - **[2026-02]** We release the [TTCS](https://github.com/XMUDeepLIT/TTCS), a self-evolving framework.
@@ -18,12 +22,17 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 ---
 
+
+
 # 📈 Trend of Agentic Self-Evolving Research
 
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/trend.png" /></p>
     <p align="center"><em>The development trends in the field of Agentic Self-Evolving with representative works.</em></p>
 
+---
+
+<h2 id="about">📖 About</h2> 
 
 Agentic Self-Evolving represents a paradigm shift in AI development, enabling systems to autonomously improve through three key dimensions:
 
@@ -551,10 +560,6 @@ Agentic Self-Evolving represents a paradigm of autonomous continuous improvement
 | **Generative Agents** | Social Simulation | Virtual town sandbox | Observe-Reflect-Plan | Reflection | Emergent group activities | [💻 GitHub](https://github.com/joonspk-research/generative_agents) | [[Paper]](https://dl.acm.org/doi/10.1145/3586183.3606763) |
 | **SIMA** | Embodied AI | Generative 3D worlds | GenEnv feedback loop | World model | Embodied data reduction | [🌐 Web](https://deepmind.google/blog/sima-2/) | [[Paper]](https://arxiv.org/abs/2512.04797) |
 | **Genie** | World Modeling | Text-to-3D worlds | Interactive world loop | Generative world model | Persistent 3D worlds | [🌐 Web](https://deepmind.google/models/genie/) | [[Paper]](https://arxiv.org/abs/2402.15391) |
-
-# 📫 Contact Us
-We welcome researchers to share related work to enrich this list or provide insightful comments on our survey on Agentic Self-Evolving. Feel free to reach out to us: [Zhishang Xiang](xiangzhishang@stu.xmu.edu.cn), [Chengyi Yang](yangchengyi@stu.xmu.edu.cn).
-
 
 
 # 🍀 Citation
