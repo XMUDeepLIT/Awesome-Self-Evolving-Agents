@@ -1,4 +1,4 @@
-# Awesome-Agentic-Self-Evolution (Agentic Self-Evolution Survey)
+# Awesome-Self-Evolving-Agents (Self-Evolving Agents Survey)
 
 <!-- <div align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
@@ -9,7 +9,7 @@
 </div> -->
 
 
-This repository contains a curated list of resources on Agentic Self-Evolution, which are classified according to "[**Agentic Self-Evolution for Large Language Models**]()". Continuously updating, stay tuned!
+This repository contains a curated list of resources on Self-Evolving Agents, which are classified according to "[**Agentic Self-Evolution for Large Language Models**]()". Continuously updating, stay tuned!
 
 # 🍀 Citation
 If you find this survey helpful, please cite our paper:
