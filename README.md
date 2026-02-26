@@ -19,7 +19,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 # 🎉 News
 - **[2026-02]** We release the [TTCS](https://github.com/XMUDeepLIT/TTCS), a self-evolving framework.
-- **[2026-02]** We release the [Self-Evolving Agents survey](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
+- **[2026-02]** We release the survey of [Self-Evolving Agents](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
 
 
 ---
@@ -552,7 +552,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 | **Genie** | World Modeling | Text-to-3D worlds | Interactive world loop | Generative world model | Persistent 3D worlds | [🌐 Web](https://deepmind.google/models/genie/) | [[Paper]](https://arxiv.org/abs/2402.15391) |
 
 
-## 🍀 Citation 
+# 🍀 Citation 
 If you find this survey helpful, please cite our paper:
 
 ```
