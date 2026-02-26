@@ -9,11 +9,7 @@
 </div> -->
 
 
-This repository contains a curated list of resources on Self-Evolving Agents, which are classified according to "[**Agentic Self-Evolving for Large Language Models**]()". Continuously updating, stay tuned!
-
-# 🍀 Citation
-If you find this survey helpful, please cite our paper:
-
+This repository contains a curated list of resources on Self-Evolving Agents, which are classified according to "[**A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution**](https://www.researchgate.net/publication/401016261_A_Systematic_Survey_of_Self-Evolving_Agents_From_Model-Centric_to_Environment-Driven_Co-Evolution)". Continuously updating, stay tuned!
 
 
 # 🎉 News
@@ -567,8 +563,6 @@ We welcome researchers to share related work to enrich this list or provide insi
 | **SIMA** | Embodied AI | Generative 3D worlds | GenEnv feedback loop | World model | Embodied data reduction | [🌐 Web](https://deepmind.google/blog/sima-2/) | [[Paper]](https://arxiv.org/abs/2512.04797) |
 | **Genie** | World Modeling | Text-to-3D worlds | Interactive world loop | Generative world model | Persistent 3D worlds | [🌐 Web](https://deepmind.google/models/genie/) | [[Paper]](https://arxiv.org/abs/2402.15391) |
 
-# 🍀 Citation
-If you find this survey helpful, please cite our paper:
 
 
 
