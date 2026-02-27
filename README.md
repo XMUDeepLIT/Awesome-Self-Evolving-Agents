@@ -367,7 +367,8 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 ### Multi-Agent Policy Co-Evolution
 
 - (ICLR'26) Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs [[Paper]](https://arxiv.org/abs/2510.11062)
-- (arxiv'25) Llm collaboration with multi-agent reinforcement learning [[Paper]](https://arxiv.org/abs/2508.04652)
+- (AAAI'26) LLM Collaboration with Multi-Agent Reinforcement Learning [[Paper]](https://arxiv.org/abs/2508.04652)
+- (arxiv'26) Decentralized LLM Collaboration with Multi-Agent Actor Critic [[Paper]](https://arxiv.org/pdf/2601.21972)
 - (arxiv'26) Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing [[Paper]](https://arxiv.org/abs/2602.04837)
 - (ACL'25 findings) Optima: Optimizing effectiveness and efficiency for llm-based multi-agent system [[Paper]](https://aclanthology.org/2025.findings-acl.601.pdf)
 - (ACL'25) Maporl: Multi-agent post-co-training for collaborative large language models with reinforcement learning [[Paper]](https://aclanthology.org/2025.acl-long.1459/)
