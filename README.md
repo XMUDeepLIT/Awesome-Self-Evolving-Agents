@@ -3,11 +3,11 @@
 <div align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-green.svg"/></a>
-     <a href="https://www.techrxiv.org/users/1029728/articles/1389627-a-systematic-survey-of-self-evolving-agents-from-model-centric-to-environment-driven-co-evolution" target="_blank"><img src="https://img.shields.io/badge/Paper-Arxiv-red?logo=arxiv&style=flat-square" alt="arXiv:2602.05665"></a>
+     <a href="https://doi.org/10.36227/techrxiv.177203250.05832634/v2" target="_blank"><img src="https://img.shields.io/badge/Paper-Arxiv-red?logo=arxiv&style=flat-square" alt="arXiv:2602.05665"></a>
      <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents"/></a>
 </div>
 
-This repository provides a comprehensive collection of research papers, benchmarks, and open-source projects on **Self-Evolving Agents**. It includes contents from our survey paper 📖<em>"[**A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution**](https://www.techrxiv.org/users/1029728/articles/1389627-a-systematic-survey-of-self-evolving-agents-from-model-centric-to-environment-driven-co-evolution)"</em> and will be continuously updated.
+This repository provides a comprehensive collection of research papers, benchmarks, and open-source projects on **Self-Evolving Agents**. It includes contents from our survey paper 📖<em>"[**A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution**](https://doi.org/10.36227/techrxiv.177203250.05832634/v2)"</em> and will be continuously updated.
 
 🤗 **You're very welcome to contribute to this repository**. If you find any missing resources or come across interesting new research works, please don’t hesitate to launch an issue or submit a pull request!
 
