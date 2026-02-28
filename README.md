@@ -3,11 +3,11 @@
 <div align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-green.svg"/></a>
-     <a href="https://www.researchgate.net/publication/401016261_A_Systematic_Survey_of_Self-Evolving_Agents_From_Model-Centric_to_Environment-Driven_Co-Evolution" target="_blank"><img src="https://img.shields.io/badge/Paper-Arxiv-red?logo=arxiv&style=flat-square" alt="arXiv:2602.05665"></a>
+     <a href="https://www.techrxiv.org/users/1029728/articles/1389627-a-systematic-survey-of-self-evolving-agents-from-model-centric-to-environment-driven-co-evolution" target="_blank"><img src="https://img.shields.io/badge/Paper-Arxiv-red?logo=arxiv&style=flat-square" alt="arXiv:2602.05665"></a>
      <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents"/></a>
 </div>
 
-This repository provides a comprehensive collection of research papers, benchmarks, and open-source projects on **Self-Evolving Agents**. It includes contents from our survey paper 📖<em>"[**A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution**](https://www.researchgate.net/publication/401016261_A_Systematic_Survey_of_Self-Evolving_Agents_From_Model-Centric_to_Environment-Driven_Co-Evolution)"</em> and will be continuously updated.
+This repository provides a comprehensive collection of research papers, benchmarks, and open-source projects on **Self-Evolving Agents**. It includes contents from our survey paper 📖<em>"[**A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution**](https://www.techrxiv.org/users/1029728/articles/1389627-a-systematic-survey-of-self-evolving-agents-from-model-centric-to-environment-driven-co-evolution)"</em> and will be continuously updated.
 
 🤗 **You're very welcome to contribute to this repository**. If you find any missing resources or come across interesting new research works, please don’t hesitate to launch an issue or submit a pull request!
 
@@ -557,10 +557,14 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 If you find this survey helpful, please cite our paper:
 
 ```
-@article{xiangagentic,
-  title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
-  author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and others}
-}
+@article{xiang2026selfevolving,
+title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
+url={http://dx.doi.org/10.36227/techrxiv.177203250.05832634/v2},
+DOI={10.36227/techrxiv.177203250.05832634/v2},
+publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and Yang, Chang and Wang, Xinrun and Huang, Xiao and Zhang, Qinggang and Su, Jinsong},
+year={2026}
+
 ```
 
 
