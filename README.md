@@ -263,9 +263,9 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 
 #### Lifelong Experience Evolution 🔥
-
 - (arxiv'25) Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team [[Paper]](https://arxiv.org/abs/2506.14234)
 - (arxiv'25) Agentevolver: Towards efficient self-evolving agent system [[Paper]](https://arxiv.org/abs/2511.10395)
+- (ACL'25) Gödel Agent: A Self-Referential Agent Framework for Recursively Self-Improvement [[Paper]](https://aclanthology.org/2025.acl-long.1354/)
 - (arxiv'26) Evolving Programmatic Skill Networks [[Paper]](https://arxiv.org/abs/2601.03509)
 - (arxiv'26) Meta Context Engineering via Agentic Skill Evolution [[Paper]](https://arxiv.org/abs/2601.21557)
 - (arxiv'26) Self-Consolidation for Self-Evolving Agents [[Paper]](https://arxiv.org/abs/2602.01966)
