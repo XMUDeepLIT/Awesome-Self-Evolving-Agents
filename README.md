@@ -557,13 +557,10 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 If you find this survey helpful, please cite our paper:
 
 ```
-@article{xiang2026selfevolving,
-title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
-url={http://dx.doi.org/10.36227/techrxiv.177203250.05832634/v2},
-DOI={10.36227/techrxiv.177203250.05832634/v2},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and Yang, Chang and Wang, Xinrun and Huang, Xiao and Zhang, Qinggang and Su, Jinsong},
-year={2026}
+@article{xiangsystematic,
+  title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
+  author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and others}
+}
 
 ```
 
