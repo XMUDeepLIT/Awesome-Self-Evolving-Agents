@@ -394,6 +394,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (NeurIPS'25) REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/121745)
 - (ICLR'26) Gem: A gym for agentic llms [[Paper]](https://arxiv.org/abs/2510.01051)
 - (arxiv'24) AgentGym: Evolving Large Language Model-based Agents across Diverse Environments [[Paper]](https://arxiv.org/abs/2406.04151)
+- (arxiv'26) ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training [[Paper]](https://arxiv.org/abs/2602.06820)
 
 # 🏆 Benchmarks
 
