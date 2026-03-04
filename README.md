@@ -69,7 +69,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
             - [Lifelong Experience Evolution 🔥](#lifelong-experience-evolution)
         - [Modular Architecture Evolution](#modular-architecture-evolution)
             - [Interaction Protocol Evolution](#interaction-protocol-evolution)
-            - [Memory Topology Evolution](#memory-topology-evolution)
+            - [Memory Architecture Evolution](#memory-architecture-evolution)
             - [Tool-Augmented Evolution](#tool-augmented-evolution)
         - [Agentic Topology Evolution](#agentic-topology-evolution)
             - [Offline Architecture Search](#offline-architecture-search)
