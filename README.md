@@ -193,6 +193,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (ICLR'26) Spice: Self-play in corpus environments improves reasoning [[Paper]](https://arxiv.org/abs/2510.24684)
 - (ICLR'26) Spell: Self-play reinforcement learning for evolving long-context language models [[Paper]](https://arxiv.org/abs/2509.23863)
 - (ICLR'25) Webrl: Training llm web agents via self-evolving online curriculum reinforcement learning [[Paper]](https://arxiv.org/abs/2411.02337)
+- (EMNLP'25) Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance [[Paper]](https://aclanthology.org/2025.emnlp-industry.115/)
 - (arxiv'25) Ladder: Self-improving llms through recursive problem decomposition [[Paper]](https://arxiv.org/abs/2503.00735)
 - (arxiv'25) Guided self-evolving llms with minimal human supervision [[Paper]](https://arxiv.org/abs/2512.02472)
 - (AAAI'25) Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34590)
