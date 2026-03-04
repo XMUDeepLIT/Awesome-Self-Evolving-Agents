@@ -299,7 +299,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 #### Memory Architecture Evolution
 
-- (ICML'25) M+: Extending MemoryLLM with Scalable Long-Term Memory
+- (ICML'25) M+: Extending MemoryLLM with Scalable Long-Term Memory [[Paper]](https://icml.cc/virtual/2025/poster/45431)
 - (arxiv'26) MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents [[Paper]](https://arxiv.org/abs/2602.02474)
 - (arxiv'26) MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory [[Paper]](https://arxiv.org/abs/2601.03192)
 - (NeurIPS'25) A-mem: Agentic memory for llm agents [[Paper]](https://arxiv.org/abs/2502.12110)
