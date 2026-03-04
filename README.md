@@ -323,6 +323,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (ICLR'24) Craft: Customizing llms by creating and retrieving from specialized toolsets [[Paper]](https://arxiv.org/abs/2309.17428)
 - (ACL'25) Llm agents making agent tools [[Paper]](https://aclanthology.org/2025.acl-long.1266/)
 - (arxiv'25) Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution [[Paper]](https://arxiv.org/abs/2505.20286)
+- (ICLR'26) EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems [[Paper]](https://arxiv.org/abs/2510.13220)
 
 
 ### Agentic Topology Evolution
