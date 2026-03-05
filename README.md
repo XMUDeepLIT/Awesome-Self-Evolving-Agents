@@ -266,7 +266,6 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 #### Lifelong Experience Evolution 🔥
 - (arxiv'25) Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team [[Paper]](https://arxiv.org/abs/2506.14234)
 - (arxiv'25) Agentevolver: Towards efficient self-evolving agent system [[Paper]](https://arxiv.org/abs/2511.10395)
-- (ACL'25) Gödel Agent: A Self-Referential Agent Framework for Recursively Self-Improvement [[Paper]](https://aclanthology.org/2025.acl-long.1354/)
 - (arxiv'26) Evolving Programmatic Skill Networks [[Paper]](https://arxiv.org/abs/2601.03509)
 - (arxiv'26) Meta Context Engineering via Agentic Skill Evolution [[Paper]](https://arxiv.org/abs/2601.21557)
 - (arxiv'26) Self-Consolidation for Self-Evolving Agents [[Paper]](https://arxiv.org/abs/2602.01966)
@@ -322,7 +321,9 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (EMNLP'23 findings)Creator: Tool creation for disentangling abstract and concrete reasoning of large language models [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2023.findings-emnlp.462.pdf)
 - (ICLR'24) Craft: Customizing llms by creating and retrieving from specialized toolsets [[Paper]](https://arxiv.org/abs/2309.17428)
 - (ACL'25) Llm agents making agent tools [[Paper]](https://aclanthology.org/2025.acl-long.1266/)
+- (ACL'25) Gödel Agent: A Self-Referential Agent Framework for Recursively Self-Improvement [[Paper]](https://aclanthology.org/2025.acl-long.1354/)
 - (arxiv'25) Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution [[Paper]](https://arxiv.org/abs/2505.20286)
+- (arxiv'25) TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments [[Paper]](https://arxiv.org/abs/2510.01179)
 - (ICLR'26) EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems [[Paper]](https://arxiv.org/abs/2510.13220)
 
 
@@ -397,6 +398,12 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (ICLR'26) Gem: A gym for agentic llms [[Paper]](https://arxiv.org/abs/2510.01051)
 - (arxiv'24) AgentGym: Evolving Large Language Model-based Agents across Diverse Environments [[Paper]](https://arxiv.org/abs/2406.04151)
 - (arxiv'26) ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training [[Paper]](https://arxiv.org/abs/2602.06820)
+- (arxiv'25) Towards General Agentic Intelligence via Environment Scaling [[Paper]](https://arxiv.org/abs/2509.13311)
+- (arxiv'25) Simulating Environments with Reasoning Models for Agent Training [[Paper]](https://arxiv.org/abs/2511.01824)
+- (arxiv'25) Feedback-Driven Tool-Use Improvements in Large Language Models via Automated Build Environments [[Paper]](https://arxiv.org/abs/2508.08791)
+- (arxiv'25) AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning [[Paper]](https://arxiv.org/abs/2512.22857)
+- (arxiv'26) EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis [[Paper]](https://arxiv.org/abs/2601.05808)
+
 
 # 🏆 Benchmarks
 
