@@ -18,7 +18,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 ---
 
 # 🎉 News
-- **[2026-02]** We release the [TTCS](https://github.com/XMUDeepLIT/TTCS), a self-evolving framework.
+- **[2026-02]** We release the [TTCS](https://arxiv.org/abs/2601.22628) and accepted by ICLR 2026 Lifelong Agent(LLA) workshop!
 - **[2026-02]** We release the survey of [Self-Evolving Agents](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
 
 
