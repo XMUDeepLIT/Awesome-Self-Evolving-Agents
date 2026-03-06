@@ -18,7 +18,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 ---
 
 # 🎉 News
-- **[2026-03]** We release the [TTCS](https://arxiv.org/abs/2601.22628) and accepted by ICLR 2026 Lifelong Agent(LLA) workshop!
+- **[2026-03]** We release the [TTCS](https://arxiv.org/abs/2601.22628) and accepted by [ICLR 2026 Lifelong Agent(LLA)](https://iclr.cc/virtual/2026/workshop/10000805) workshop!
 - **[2026-02]** We release the survey of [Self-Evolving Agents](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
 
 
@@ -318,13 +318,14 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (ICML'23) Pal: Program-aided language models [[Paper]](https://arxiv.org/abs/2211.10435)
 - (TMLR'24) Voyager: An open-ended embodied agent with large language models [[Paper]](https://arxiv.org/abs/2305.16291)
 - (ICLR'24) Large language models as tool makers [[Paper]](https://arxiv.org/abs/2305.17126)
-- (EMNLP'23 findings)Creator: Tool creation for disentangling abstract and concrete reasoning of large language models [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2023.findings-emnlp.462.pdf)
+- (EMNLP'23 findings) Creator: Tool creation for disentangling abstract and concrete reasoning of large language models [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2023.findings-emnlp.462.pdf)
 - (ICLR'24) Craft: Customizing llms by creating and retrieving from specialized toolsets [[Paper]](https://arxiv.org/abs/2309.17428)
 - (ACL'25) Llm agents making agent tools [[Paper]](https://aclanthology.org/2025.acl-long.1266/)
 - (ACL'25) Gödel Agent: A Self-Referential Agent Framework for Recursively Self-Improvement [[Paper]](https://aclanthology.org/2025.acl-long.1354/)
 - (arxiv'25) Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution [[Paper]](https://arxiv.org/abs/2505.20286)
 - (arxiv'25) TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments [[Paper]](https://arxiv.org/abs/2510.01179)
 - (ICLR'26) EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems [[Paper]](https://arxiv.org/abs/2510.13220)
+- (arxiv'26) Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning [[Paper]](https://arxiv.org/abs/2601.07641)
 
 
 ### Agentic Topology Evolution
