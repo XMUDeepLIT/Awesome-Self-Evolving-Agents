@@ -178,6 +178,8 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (ICLR'26) Steporlm: A self-evolving framework with generative process supervision for operations research language models [[Paper]](https://arxiv.org/abs/2509.22558)
 - (NeurIPS'24) Coevolving with the other you: Fine-tuning llm with sequential cooperative multi-agent reinforcement learning [[Paper]](https://neurips.cc/virtual/2024/poster/95347)
 - (ICLR'26) R-zero: Self-evolving reasoning llm from zero data [[Paper]](https://arxiv.org/abs/2508.05004)
+- (arxiv'26) MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data
+ [[Paper]](https://arxiv.org/abs/2603.09206)
 - (NeurIPS'25) Absolute zero: Reinforced self-play reasoning with zero data [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/116121)
 - (arxiv'25) Language self-play for data-free training [[Paper]](https://arxiv.org/abs/2509.07414)
 - (arxiv'25) Self-questioning language models [[Paper]](https://arxiv.org/abs/2508.03682)
