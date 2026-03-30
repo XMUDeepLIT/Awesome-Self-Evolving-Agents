@@ -67,7 +67,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
             - [Offline Experience Compilation](#offline-experience-compilation)
             - [Online Experience Adaptation](#online-experience-adaptation)
             - [Lifelong Experience Evolution 🔥](#lifelong-experience-evolution)
-            - [Skill Augmented Evolution](#skill-augmented-evolution)
+            - [Skill Augmented Evolution 🔥](#skill-augmented-evolution)
         - [Modular Architecture Evolution](#modular-architecture-evolution)
             - [Interaction Protocol Evolution](#interaction-protocol-evolution)
             - [Memory Architecture Evolution](#memory-architecture-evolution)
@@ -286,7 +286,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 
 
-#### Skill Augmented Evolution
+#### Skill Augmented Evolution 🔥
 
 - (arxiv'26) AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
 [[Paper]](https://arxiv.org/abs/2603.01145)
