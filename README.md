@@ -67,6 +67,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
             - [Offline Experience Compilation](#offline-experience-compilation)
             - [Online Experience Adaptation](#online-experience-adaptation)
             - [Lifelong Experience Evolution 🔥](#lifelong-experience-evolution)
+            - [Skill Augmented Evolution](#skill-augmented-evolution)
         - [Modular Architecture Evolution](#modular-architecture-evolution)
             - [Interaction Protocol Evolution](#interaction-protocol-evolution)
             - [Memory Architecture Evolution](#memory-architecture-evolution)
@@ -281,6 +282,20 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'25) AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization [[Paper]](https://arxiv.org/abs/2511.15915)
 - (ICLR'26) Memgen: Weaving generative latent memory for self-evolving agents [[Paper]](https://arxiv.org/abs/2509.24704)
 - (arxiv'25) Latentevolve: Self-evolving test-time scaling in latent space [[Paper]](https://arxiv.org/abs/2509.24771)
+- (arxiv'26) RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback [[Paper]](https://arxiv.org/abs/2603.08561)
+
+
+
+#### Skill Augmented Evolution
+
+- (arxiv'26) AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
+[[Paper]](https://arxiv.org/abs/2603.01145)
+- (arxiv'26) SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning [[Paper]](https://arxiv.org/abs/2602.08234)
+- (arxiv'26) SkillNet: Create, Evaluate, and Connect AI Skills [[Paper]](https://arxiv.org/abs/2603.04448)
+- (arxiv'26) SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks [[Paper]](https://arxiv.org/abs/2602.12670)
+- (arxiv'26) ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning [[Paper]](https://arxiv.org/abs/2603.16060)
+- (arxiv'26) Evolving Medical Imaging Agents via  Experience-driven Self-skill Discovery [[Paper]](https://arxiv.org/abs/2603.05860)
+
 
 
 ### Modular Architecture Evolution
