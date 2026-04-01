@@ -11,8 +11,6 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 🤗 **You're very welcome to contribute to this repository**. If you find any missing resources or come across interesting new research works, please don’t hesitate to launch an issue or submit a pull request!
 
----
-
 📫 **Contact us via emails:** `{xiangzhishang,yangchengyi}@stu.xmu.edu.cn`, `qinggang.zhang@polyu.edu.hk`
 
 **📃 Please [cite our paper](#-citation)** if you find our survey or repository helpful!
