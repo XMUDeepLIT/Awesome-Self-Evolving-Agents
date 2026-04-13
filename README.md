@@ -358,6 +358,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (ACL'25) Gödel Agent: A Self-Referential Agent Framework for Recursively Self-Improvement [[Paper]](https://aclanthology.org/2025.acl-long.1354/)
 - (arxiv'25) Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution [[Paper]](https://arxiv.org/abs/2505.20286)
 - (arxiv'25) TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments [[Paper]](https://arxiv.org/abs/2510.01179)
+- (arxiv'25) Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly? [[Paper]](https://arxiv.org/abs/2511.13646)
 - (ICLR'26) EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems [[Paper]](https://arxiv.org/abs/2510.13220)
 - (arxiv'26) Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning [[Paper]](https://arxiv.org/abs/2601.07641)
 
