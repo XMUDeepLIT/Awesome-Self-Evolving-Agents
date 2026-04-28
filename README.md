@@ -17,19 +17,12 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 
 ```
-@article{
-doi:10.36227/techrxiv.177203250.05832634/v2,
-author = {Zhishang Xiang  and Chengyi Yang  and Zerui Chen  and Zhimin Wei  and Yunbo Tang  and Zongpei Teng  and Zexi Peng  and Zongxia Li  and Chengsong Huang  and Yicheng He  and Chang Yang  and Xinrun Wang  and Xiao Huang  and Qinggang Zhang  and Jinsong Su },
-title = {A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
-journal = {TechRxiv},
-volume = {2026},
-number = {0227},
-year = {2026},
-doi = {10.36227/techrxiv.177203250.05832634/v2},
-URL = {https://www.techrxiv.org/doi/abs/10.36227/techrxiv.177203250.05832634/v2},
-eprint = {https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177203250.05832634/v2}
+@misc{xiang2025systematic,
+  title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
+  author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and others},
+  year={2025},
+  publisher={Researchgate}
 }
-
 ```
 
 ---
@@ -604,18 +597,13 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 If you find this survey helpful, please cite our paper:
 
 ```
-@article{
-doi:10.36227/techrxiv.177203250.05832634/v2,
-author = {Zhishang Xiang  and Chengyi Yang  and Zerui Chen  and Zhimin Wei  and Yunbo Tang  and Zongpei Teng  and Zexi Peng  and Zongxia Li  and Chengsong Huang  and Yicheng He  and Chang Yang  and Xinrun Wang  and Xiao Huang  and Qinggang Zhang  and Jinsong Su },
-title = {A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
-journal = {TechRxiv},
-volume = {2026},
-number = {0227},
-year = {2026},
-doi = {10.36227/techrxiv.177203250.05832634/v2},
-URL = {https://www.techrxiv.org/doi/abs/10.36227/techrxiv.177203250.05832634/v2},
-eprint = {https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177203250.05832634/v2}
+@misc{xiang2025systematic,
+  title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
+  author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and others},
+  year={2025},
+  publisher={Researchgate}
 }
+
 ```
 
 
