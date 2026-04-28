@@ -409,6 +409,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (AAAI'26) LLM Collaboration with Multi-Agent Reinforcement Learning [[Paper]](https://arxiv.org/abs/2508.04652)
 - (arxiv'26) Decentralized LLM Collaboration with Multi-Agent Actor Critic [[Paper]](https://arxiv.org/pdf/2601.21972)
 - (arxiv'26) Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing [[Paper]](https://arxiv.org/abs/2602.04837)
+- (arxiv'26) CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery [[Paper]](https://arxiv.org/abs/2604.01658) [[Code]](https://github.com/Human-Agent-Society/CORAL)
 - (ACL'25 findings) Optima: Optimizing effectiveness and efficiency for llm-based multi-agent system [[Paper]](https://aclanthology.org/2025.findings-acl.601.pdf)
 - (ACL'25) Maporl: Multi-agent post-co-training for collaborative large language models with reinforcement learning [[Paper]](https://aclanthology.org/2025.acl-long.1459/)
 - (arxiv'25) Marft: Multi-agent reinforcement fine-tuning [[Paper]](https://arxiv.org/abs/2504.16129)
