@@ -597,13 +597,12 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 If you find this survey helpful, please cite our paper:
 
 ```
-@misc{xiang2025systematic,
+@article{xiang2026systematic,
   title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
   author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and others},
-  year={2025},
-  publisher={Researchgate}
+  year={2026},
+  publisher={TechRxiv}
 }
-
 ```
 
 
