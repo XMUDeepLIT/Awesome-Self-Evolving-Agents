@@ -433,6 +433,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'25) Feedback-Driven Tool-Use Improvements in Large Language Models via Automated Build Environments [[Paper]](https://arxiv.org/abs/2508.08791)
 - (arxiv'25) AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning [[Paper]](https://arxiv.org/abs/2512.22857)
 - (arxiv'26) EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis [[Paper]](https://arxiv.org/abs/2601.05808)
+- (arxiv'26) Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence [[Paper]](https://arxiv.org/abs/2604.18292)
 
 
 # 🏆 Benchmarks
