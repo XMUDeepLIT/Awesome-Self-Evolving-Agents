@@ -20,9 +20,10 @@ This repository provides a comprehensive collection of research papers, benchmar
 @article{xiang2026systematic,
   title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
   author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and others},
-  year={2026},
-  publisher={TechRxiv}
+  journal={Available at SSRN 6626878},
+  year={2026}
 }
+
 ```
 
 ---
@@ -602,8 +603,8 @@ If you find this survey helpful, please cite our paper:
 @article{xiang2026systematic,
   title={A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution},
   author={Xiang, Zhishang and Yang, Chengyi and Chen, Zerui and Wei, Zhimin and Tang, Yunbo and Teng, Zongpei and Peng, Zexi and Li, Zongxia and Huang, Chengsong and He, Yicheng and others},
-  year={2026},
-  publisher={TechRxiv}
+  journal={Available at SSRN 6626878},
+  year={2026}
 }
 ```
 
