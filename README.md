@@ -183,7 +183,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 
 #### Exploration-Driven Online Self-Evolving 🔥
-
+- (ECCV'2026) SyncLoop: A Multimodal Dual-Loop Framework for Self-Improving Mathematical Reasoning [[Paper]](https://arxiv.org/abs/2507.16518)
 - (arxiv'26) TTCS: Test-Time Curriculum Synthesis for Self-Evolving [[Paper]](https://arxiv.org/abs/2601.22628)
 - (NeurIPS'25) Co-evolving llm coder and unit tester via reinforcement learning [[Paper]](neurips.cc/virtual/2025/loc/san-diego/poster/115329)
 - (arxiv'25) Towards agentic self-learning llms in search environment [[Paper]](https://arxiv.org/abs/2510.14253)
