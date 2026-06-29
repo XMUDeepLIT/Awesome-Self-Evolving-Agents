@@ -533,6 +533,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 | **LlamaIndex** | Integrates private data with LLMs via robust connectors and query engines | [💻 GitHub](https://github.com/run-llama/llama_index) | [[Paper]](https://github.com/jerryjliu/llama_index) |
 | **AutoGen** | Automates tasks via customizable agents using conversation and tool integration | [💻 GitHub](https://github.com/microsoft/autogen) | [[Paper]](https://openreview.net/forum?id=uAjxFFing2) |
 | **MetaGPT** | Encodes SOPs into LLMs for role-based software development | [💻 GitHub](https://github.com/FoundationAgents/MetaGPT) | [[Paper]](https://openreview.net/forum?id=VtmBAGCN7o) |
+| **Aeon** | Runs autonomous coding agents inside GitHub Actions for continuous, self-directed task execution without approval loops | [💻 GitHub](https://github.com/aaronjmars/aeon) | [[Website]](https://www.aeon.fun/) |
 
 ## Distributed Training
 | Library | Key Features | Link | Paper |
