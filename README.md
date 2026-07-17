@@ -566,6 +566,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 ## Automated Scientific Discovery
 | Application | Domain | Environment | Evolution Mechanism | Core Technology | Breakthrough Results | Link | Paper |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Agon** | Omnidisciplinary Research | Prompt-driven research workspace | Generate/Critique loops | Prompt Economy | 30-day unattended run | [💻 GitHub](https://github.com/AutoResearch-Factory/Agon) | [[Paper]](https://arxiv.org/abs/2606.24177) |
 | **The AI Scientist** | Academic Research | Simulated review system | Gen-Review cycle | Auto peer-review | Paper auto-generation | [💻 GitHub](https://github.com/SakanaAI/AI-Scientist) | [[Paper]](https://arxiv.org/abs/2408.06292) |
 | **AlphaProof** | Logic & Math | Lean verifier | Search-Verify loop | Prover net | IMO 2024 silver-level | [🌐 Web](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/) | [[Paper]](https://www.nature.com/articles/s41586-025-09421-4) |
 | **ChemCrow** | Chemistry | Lab tools | Plan-Safety-Execute loop | Robotics control | Generalized lab automation | [💻 GitHub](https://github.com/ur-whitelab/chemcrow-public) | [[Paper]](https://arxiv.org/abs/2304.05376) |
