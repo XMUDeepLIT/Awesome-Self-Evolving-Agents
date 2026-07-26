@@ -501,6 +501,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 | Mind2Web | Web Navigation | Text | Generalist Agent, Real Websites | [💻 GitHub](https://github.com/OSU-NLP-Group/Mind2Web) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html) |
 | WebVoyager | Web Navigation | Multimodal | End-to-End, Visual Navigation | [💻 GitHub](https://github.com/MinorJerry/WebVoyager) | [[Paper]](https://arxiv.org/abs/2401.13919) |
 | VisualWebArena | Web Navigation | Multimodal | Visual/HTML, Interactive | [💻 GitHub](https://github.com/web-arena-x/visualwebarena) | [[Paper]](https://aclanthology.org/2024.acl-long.49/) |
+| ClawBench | Web Navigation | Multimodal | Live Websites, Everyday Tasks | [💻 GitHub](https://github.com/TIGER-AI-Lab/ClawBench) | [[Paper]](https://arxiv.org/abs/2604.08523) |
 
 ### Tool Usage
 | Name | Domain | Modality | Feature | Link | Paper |
