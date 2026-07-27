@@ -495,6 +495,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 ### Web Navigation
 | Name | Domain | Modality | Feature | Link | Paper |
 | --- | --- | --- | --- | --- | --- |
+| ClawBench | Web Navigation | Multimodal | Live Websites, Everyday Tasks, Auditable Traces | [💻 GitHub](https://github.com/reacher-z/ClawBench) | [[Paper]](https://arxiv.org/abs/2604.08523) · [[Project]](https://claw-bench.com/) |
 | WebArena | Web Navigation | Text | Realistic Tasks, Long-Horizon | [💻 GitHub](https://github.com/web-arena-x/webarena) | [[Paper]](https://openreview.net/forum?id=oKn9c6ytLx) |
 | WebShop | Web Navigation | Text | E-commerce, Decision Making | [💻 GitHub](https://github.com/princeton-nlp/WebShop) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html) |
 | MT-Mind2Web | Web Navigation | Text | Multi-Turn, Generalization | [🤗 HF](https://huggingface.co/datasets/magicgh/MT-Mind2Web) | [[Paper]](https://aclanthology.org/2024.acl-long.475/) |
@@ -610,7 +611,6 @@ If you find this survey helpful, please cite our paper:
   year={2026}
 }
 ```
-
 
 
 
