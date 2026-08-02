@@ -586,6 +586,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 | **Claude Code** | Long-term Engineering | Project history | Skill accumulation | Skill memory | Senior-level coding | [🌐 Web](https://claude.com/product/claude-code) | [[Paper]](https://claude.com/product/claude-code) |
 | **Manus** | Software Engineering | Cloud VM sandbox | Plan-Act-Verify loop | CodeAct | Human-like env interaction | [🌐 Web](https://manus.im/) | [[Paper]](https://manus.im/) |
 | **OpenClaw** | Local Agents | Local FS | Community skill | Skill hub | Long-term local adaptation | [🌐 Web](https://openclaw.ai/) | [[Paper]](https://openclaw.ai/) |
+| **Ouroboros** | Software Engineering | Local desktop; CLI; project workspaces | Reviewed self-modification | Durable identity and memory | Continuity across tasks and restarts | [💻 GitHub](https://github.com/razzant/ouroboros) | [[Paper]](https://ouroboros-agent.ai/benchmarks/) |
 | **Devin** | Software Engineering | Browser; terminal; IDE | Web-based correction | Tool autonomy | Fully autonomous SWE | [🌐 Web](https://devin.ai/) | [[Paper]](https://devin.ai/) |
 | **Cursor** | Human-AI Coding | Repo index; shadow env | Human-AI co-evolution | Shadow workspace | Productivity co-adaptation | [🌐 Web](https://cursor.com/) | [[Paper]](https://cursor.com/) |
 
@@ -612,6 +613,5 @@ If you find this survey helpful, please cite our paper:
   year={2026}
 }
 ```
-
 
 
