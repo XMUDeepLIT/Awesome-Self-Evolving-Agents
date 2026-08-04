@@ -308,6 +308,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'26) SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks [[Paper]](https://arxiv.org/abs/2602.12670)
 - (arxiv'26) ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning [[Paper]](https://arxiv.org/abs/2603.16060)
 - (arxiv'26) Evolving Medical Imaging Agents via  Experience-driven Self-skill Discovery [[Paper]](https://arxiv.org/abs/2603.05860)
+- (arxiv'26) OpenSkill: Open-World Self-Evolution for LLM Agents [[Paper]](https://arxiv.org/abs/2606.06741) [[Code]](https://github.com/OpenLAIR/OpenSkill)
 
 
 
