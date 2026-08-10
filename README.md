@@ -301,6 +301,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 #### Skill Augmented Evolution 🔥
 
+- (arxiv'26) RewardHarness: Self-Evolving Agentic Post-Training [[Paper]](https://arxiv.org/abs/2605.08703) [[Code]](https://github.com/TIGER-AI-Lab/RewardHarness)
 - (arxiv'26) AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
 [[Paper]](https://arxiv.org/abs/2603.01145)
 - (arxiv'26) SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning [[Paper]](https://arxiv.org/abs/2602.08234)
@@ -612,6 +613,5 @@ If you find this survey helpful, please cite our paper:
   year={2026}
 }
 ```
-
 
 
