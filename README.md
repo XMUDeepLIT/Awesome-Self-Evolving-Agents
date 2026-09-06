@@ -540,6 +540,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 | **MetaGPT** | Encodes SOPs into LLMs for role-based software development | [💻 GitHub](https://github.com/FoundationAgents/MetaGPT) | [[Paper]](https://openreview.net/forum?id=VtmBAGCN7o) |
 | **OpenProgram** | Lets agents create and refine executable workflows while the runtime manages models, tools, memory, context, permissions, and multi-agent coordination | [💻 GitHub](https://github.com/Fzkuji/OpenProgram) | [[Paper]](https://arxiv.org/abs/2606.15874) |
 | **Aeon** | Runs autonomous coding agents inside GitHub Actions for continuous, self-directed task execution without approval loops | [💻 GitHub](https://github.com/aaronjmars/aeon) | [[Website]](https://www.aeon.fun/) |
+| **AgentDescent** | Optimizes a shared library of skills, prompts, and harness modules by running N workers that propose diffs in parallel, with a barrier-free asynchronous aggregator that resolves conflicts and accepts merges on a Beta posterior over held-out reward | [💻 GitHub](https://github.com/Birfy/agentdescent) | [[Docs]](https://birfy.github.io/agentdescent/) |
 
 ## Distributed Training
 | Library | Key Features | Link | Paper |
