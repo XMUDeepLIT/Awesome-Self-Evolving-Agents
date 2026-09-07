@@ -593,6 +593,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 | **Ouroboros** | Software Engineering | Local desktop; CLI; project workspaces | Reviewed self-modification | Durable identity and memory | Continuity across tasks and restarts | [💻 GitHub](https://github.com/razzant/ouroboros) | [[Paper]](https://arxiv.org/abs/2608.08311) |
 | **Devin** | Software Engineering | Browser; terminal; IDE | Web-based correction | Tool autonomy | Fully autonomous SWE | [🌐 Web](https://devin.ai/) | [[Paper]](https://devin.ai/) |
 | **Cursor** | Human-AI Coding | Repo index; shadow env | Human-AI co-evolution | Shadow workspace | Productivity co-adaptation | [🌐 Web](https://cursor.com/) | [[Paper]](https://cursor.com/) |
+| **hmharness** | HarmonyOS Development | Terminal; HarmonyOS toolchain; emulator | Bench-gated skill evolution; canary A/B deployment | Zero-dependency agent kernel (7 npm packages) | 30-day self-feeding evidence protocol | [💻 GitHub](https://github.com/swsgbl/hmharness) | [[Docs]](https://swsgbl.github.io/hmharness/) |
 
 ## Open-World Simulation
 | Application | Domain | Environment | Evolution Mechanism | Core Technology | Breakthrough Results | Link | Paper |
