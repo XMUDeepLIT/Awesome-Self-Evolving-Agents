@@ -93,6 +93,9 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
             - [Adaptive Curriculum Evolution](#adaptive-curriculum-evolution)
             - [Scalable Environment Evolution](#scalable-environment-evolution)
 - [🏆 Benchmarks](#-benchmarks)
+    - [Self-Evolution Evaluation](#self-evolution-evaluation)
+    - [Intrinsic Capabilities](#intrinsic-capabilities)
+    - [Agentic Reasoning Capabilities](#agentic-reasoning-capabilities)
 - [💻 Open Source Libraries](#-open-source-libraries)
 - [🚀 Applications](#-applications)
     - [Automated Scientific Discovery](#automated-scientific-discovery)
@@ -443,6 +446,16 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 # 🏆 Benchmarks
 
+## Self-Evolution Evaluation
+
+Benchmarks that evaluate whether agents can turn capability goals, interaction experience, or harness revisions into improvements on held-out tasks.
+
+| Name | Domain | Modality | Feature | Link | Paper |
+| --- | --- | --- | --- | --- | --- |
+| Aspire | Vague-Goal Self-Evolution | Text | Hidden Downstream Tasks, Model-Weight and Agent-Harness Updates | [🌐 Project](https://self-developing-agents.github.io/) | [[Paper]](https://arxiv.org/abs/2608.31111) |
+| S3Gym | Experience-Based Self-Improvement | Text | Seven Games, Self-Testing and Self-Judging, Held-Out Evaluation | [🌐 Project](https://self-developing-agents.github.io/) | [[Paper]](https://arxiv.org/abs/2608.31100) |
+| HarnessDev | Agent Harness Creation and Evolution | Text / Code | Runnable Harness Artifacts, Downstream Feedback, Held-Out Evaluation | [🌐 Project](https://self-developing-agents.github.io/) | [[Paper]](https://arxiv.org/abs/2609.01437) |
+
 ## Intrinsic Capabilities
 
 ### General Knowledge
@@ -497,14 +510,13 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 ### Web Navigation
 | Name | Domain | Modality | Feature | Link | Paper |
 | --- | --- | --- | --- | --- | --- |
-| ClawBench | Web Navigation | Multimodal | Live Websites, Everyday Tasks, Auditable Traces | [💻 GitHub](https://github.com/reacher-z/ClawBench) | [[Paper]](https://arxiv.org/abs/2604.08523) · [[Project]](https://claw-bench.com/) |
+| ClawBench | Web Navigation | Multimodal | Live Websites, Everyday Tasks, Auditable Traces | [💻 GitHub](https://github.com/TIGER-AI-Lab/ClawBench) | [[Paper]](https://arxiv.org/abs/2604.08523) · [[Project]](https://claw-bench.com/) |
 | WebArena | Web Navigation | Text | Realistic Tasks, Long-Horizon | [💻 GitHub](https://github.com/web-arena-x/webarena) | [[Paper]](https://openreview.net/forum?id=oKn9c6ytLx) |
 | WebShop | Web Navigation | Text | E-commerce, Decision Making | [💻 GitHub](https://github.com/princeton-nlp/WebShop) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html) |
 | MT-Mind2Web | Web Navigation | Text | Multi-Turn, Generalization | [🤗 HF](https://huggingface.co/datasets/magicgh/MT-Mind2Web) | [[Paper]](https://aclanthology.org/2024.acl-long.475/) |
 | Mind2Web | Web Navigation | Text | Generalist Agent, Real Websites | [💻 GitHub](https://github.com/OSU-NLP-Group/Mind2Web) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html) |
 | WebVoyager | Web Navigation | Multimodal | End-to-End, Visual Navigation | [💻 GitHub](https://github.com/MinorJerry/WebVoyager) | [[Paper]](https://arxiv.org/abs/2401.13919) |
 | VisualWebArena | Web Navigation | Multimodal | Visual/HTML, Interactive | [💻 GitHub](https://github.com/web-arena-x/visualwebarena) | [[Paper]](https://aclanthology.org/2024.acl-long.49/) |
-| ClawBench | Web Navigation | Multimodal | Live Websites, Everyday Tasks | [💻 GitHub](https://github.com/TIGER-AI-Lab/ClawBench) | [[Paper]](https://arxiv.org/abs/2604.08523) |
 
 ### Tool Usage
 | Name | Domain | Modality | Feature | Link | Paper |
@@ -618,5 +630,4 @@ If you find this survey helpful, please cite our paper:
   year={2026}
 }
 ```
-
 
