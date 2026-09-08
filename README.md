@@ -220,6 +220,8 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (ICLR'26) Your agent may misevolve: Emergent risks in self-evolving llm agents [[Paper]](https://arxiv.org/abs/2509.26354)
 
 
+- (arxiv'26) Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report [[Paper]](https://arxiv.org/abs/2608.15763)
+
 ## Environment-Centric Self-Evolution
 
 <h3 align="center">
