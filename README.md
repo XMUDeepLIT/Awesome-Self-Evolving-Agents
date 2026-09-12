@@ -141,6 +141,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'25) Towards system 2 reasoning in llms: Learning how to think with meta chain-of-thought [[Paper]](https://arxiv.org/abs/2501.04682)
 - (ICLR'25) Planning in natural language improves llm search for code generation [[Paper]](https://arxiv.org/abs/2409.03733)
 - (ICML'25) Reasoning-as-logic-units: Scaling test-time reasoning in large language models through logic unit alignment [[Paper]](https://arxiv.org/abs/2502.07803)
+- (arxiv'26) Steer, Don't Solve: Training Small Critic Models for Large Code Agents [[Paper]](https://arxiv.org/abs/2606.21811) [[Code]](https://github.com/shubhamrgandhi/critic-training)
 
 
 #### Structured Reasoning
