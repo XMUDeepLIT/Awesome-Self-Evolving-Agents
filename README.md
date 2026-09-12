@@ -218,6 +218,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (AAAI'25) Empowering Self-Learning of LLMs: Inner Knowledge Explicitation as a Catalyst [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34590)
 - (NeurIPS'25) Spc: Evolving self-play critic via adversarial games for llm reasoning [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/118706)
 - (ICLR'26) Your agent may misevolve: Emergent risks in self-evolving llm agents [[Paper]](https://arxiv.org/abs/2509.26354)
+- (arxiv'26) DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training [[Paper]](https://arxiv.org/abs/2609.04094) [[Code]](https://github.com/IBM/draco)
 
 
 ## Environment-Centric Self-Evolution
