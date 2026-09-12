@@ -222,6 +222,8 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'26) DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training [[Paper]](https://arxiv.org/abs/2609.04094) [[Code]](https://github.com/IBM/draco)
 
 
+- (arxiv'26) Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report [[Paper]](https://arxiv.org/abs/2608.15763)
+
 ## Environment-Centric Self-Evolution
 
 <h3 align="center">
