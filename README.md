@@ -557,6 +557,7 @@ Benchmarks that evaluate whether agents can turn capability goals, interaction e
 | **OpenProgram** | Lets agents create and refine executable workflows while the runtime manages models, tools, memory, context, permissions, and multi-agent coordination | [💻 GitHub](https://github.com/Fzkuji/OpenProgram) | [[Paper]](https://arxiv.org/abs/2606.15874) |
 | **Aeon** | Runs autonomous coding agents inside GitHub Actions for continuous, self-directed task execution without approval loops | [💻 GitHub](https://github.com/aaronjmars/aeon) | [[Website]](https://www.aeon.fun/) |
 | **AgentDescent** | Optimizes a shared library of skills, prompts, and harness modules by running N workers that propose diffs in parallel, with a barrier-free asynchronous aggregator that resolves conflicts and accepts merges on a Beta posterior over held-out reward | [💻 GitHub](https://github.com/Birfy/agentdescent) | [[Docs]](https://birfy.github.io/agentdescent/) |
+| **YYLO** | Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and lands via an immutable task source composed in a private detached candidate | [💻 GitHub](https://github.com/yylo-dev/yylo) | [[Website]](https://www.npmjs.com/package/@yylo/cli) |
 
 ## Distributed Training
 | Library | Key Features | Link | Paper |
