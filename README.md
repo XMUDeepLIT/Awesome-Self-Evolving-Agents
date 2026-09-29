@@ -184,6 +184,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (NeurIPS'25) Sirius: Self-improving multi-agent systems via bootstrapped reasoning [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/118834)
 - (arxiv'25) Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning [[Paper]](https://arxiv.org/abs/2504.20073)
 - (EMNLP'25) Samule: Self-learning agents enhanced by multi-level reflection [[Paper]](https://aclanthology.org/2025.emnlp-main.839/)
+- (arxiv'26) Harness-Zero: Harness Distillation via Agent-as-Harness [[Paper]](https://arxiv.org/abs/2609.24974) [[Code]](https://github.com/metaevo-ai/harness-zero)
 
 
 #### Exploration-Driven Online Self-Evolving 🔥
@@ -317,6 +318,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'26) ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning [[Paper]](https://arxiv.org/abs/2603.16060)
 - (arxiv'26) Evolving Medical Imaging Agents via  Experience-driven Self-skill Discovery [[Paper]](https://arxiv.org/abs/2603.05860)
 - (arxiv'26) OpenSkill: Open-World Self-Evolution for LLM Agents [[Paper]](https://arxiv.org/abs/2606.06741) [[Code]](https://github.com/OpenLAIR/OpenSkill)
+- (ICML'26) Meta Context Engineering via Agentic Skill Evolution [[Paper]](https://arxiv.org/abs/2601.21557) [[Code]](https://github.com/metaevo-ai/meta-context-engineering)
 
 
 
