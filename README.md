@@ -379,6 +379,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (ICLR'25) Aflow: Automating agentic workflow generation [[Paper]](https://arxiv.org/abs/2410.10762)
 - (ICLR'25) Automated design of agentic systems [[Paper]](https://arxiv.org/abs/2408.08435)
 - (ICML'25) MAS-GPT: Training LLMs to build LLM-based multi-agent systems [[Paper]](https://arxiv.org/abs/2503.03686)
+- (arXiv'26) AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation [[Paper]](https://github.com/KuOnoda/AutoRef)
 
 
 #### Runtime Dynamic Adaptation
