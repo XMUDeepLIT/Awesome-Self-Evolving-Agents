@@ -185,6 +185,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'25) Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning [[Paper]](https://arxiv.org/abs/2504.20073)
 - (EMNLP'25) Samule: Self-learning agents enhanced by multi-level reflection [[Paper]](https://aclanthology.org/2025.emnlp-main.839/)
 - (arxiv'26) Harness-Zero: Harness Distillation via Agent-as-Harness [[Paper]](https://arxiv.org/abs/2609.24974) [[Code]](https://github.com/metaevo-ai/harness-zero)
+- (arxiv'26) ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation [[Paper]](https://arxiv.org/abs/2609.39306) [[Code]](https://github.com/ShengjieJin/ReSAIL)
 
 
 #### Exploration-Driven Online Self-Evolving 🔥
@@ -285,6 +286,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'25) Memento: Fine-tuning llm agents without fine-tuning llms [[Paper]](https://arxiv.org/abs/2508.16153)
 - (ICLR'26) Gepa: Reflective prompt evolution can outperform reinforcement learning [[Paper]](https://arxiv.org/abs/2507.19457)
 - (ICLR'26) Agentic context engineering: Evolving contexts for self-improving language models [[Paper]](https://arxiv.org/abs/2510.04618)
+- (ECCV'26) AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation [[Paper]](https://arxiv.org/abs/2609.15457)
 
 
 #### Lifelong Experience Evolution 🔥
