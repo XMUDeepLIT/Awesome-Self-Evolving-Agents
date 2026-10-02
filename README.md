@@ -561,6 +561,7 @@ Benchmarks that evaluate whether agents can turn capability goals, interaction e
 | **Aeon** | Runs autonomous coding agents inside GitHub Actions for continuous, self-directed task execution without approval loops | [💻 GitHub](https://github.com/aaronjmars/aeon) | [[Website]](https://www.aeon.fun/) |
 | **AgentDescent** | Optimizes a shared library of skills, prompts, and harness modules by running N workers that propose diffs in parallel, with a barrier-free asynchronous aggregator that resolves conflicts and accepts merges on a Beta posterior over held-out reward | [💻 GitHub](https://github.com/Birfy/agentdescent) | [[Docs]](https://birfy.github.io/agentdescent/) |
 | **YYLO** | Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and lands via an immutable task source composed in a private detached candidate | [💻 GitHub](https://github.com/yylo-dev/yylo) | [[Website]](https://www.npmjs.com/package/@yylo/cli) |
+| **Raven** | Multi-agent harness built for recursive self-improvement that orchestrates built-in and third-party agents as task DAGs; an experimental Curator rewrites each agent's Memory, Planning, Capability, and Action strategy modules and installs only verified changes | [💻 GitHub](https://github.com/EverMind-AI/Raven) | [[Paper]](https://github.com/EverMind-AI/Raven/releases/download/tech-report-v1/technical-report.pdf) |
 
 ## Distributed Training
 | Library | Key Features | Link | Paper |
