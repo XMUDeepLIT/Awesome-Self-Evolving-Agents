@@ -190,6 +190,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 
 #### Exploration-Driven Online Self-Evolving 🔥
+- (arxiv'26) Environmental Feedback Modeling Matters: Rethinking Feedback Treatment in Agentic Hindsight Self-Distillation [[Paper]](https://arxiv.org/abs/2610.11384)
 - (ECCV'2026) SyncLoop: A Multimodal Dual-Loop Framework for Self-Improving Mathematical Reasoning [[Paper]](https://arxiv.org/abs/2507.16518)
 - (arxiv'26) TTCS: Test-Time Curriculum Synthesis for Self-Evolving [[Paper]](https://arxiv.org/abs/2601.22628)
 - (NeurIPS'25) Co-evolving llm coder and unit tester via reinforcement learning [[Paper]](neurips.cc/virtual/2025/loc/san-diego/poster/115329)
@@ -291,6 +292,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 
 #### Lifelong Experience Evolution 🔥
+- (arxiv'26) From a Prompt to Repertoires: Evolving Functional REpertoires Enable LLM Continual Learning [[Paper]](https://arxiv.org/abs/2610.11373)
 - (arxiv'25) Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team [[Paper]](https://arxiv.org/abs/2506.14234)
 - (arxiv'25) Agentevolver: Towards efficient self-evolving agent system [[Paper]](https://arxiv.org/abs/2511.10395)
 - (arxiv'26) Evolving Programmatic Skill Networks [[Paper]](https://arxiv.org/abs/2601.03509)
