@@ -540,6 +540,7 @@ Benchmarks that evaluate whether agents can turn capability goals, interaction e
 | AgentBoard | Unified Frameworks | Multimodal | Analytic Dashboard, Unified | [💻 GitHub](https://github.com/hkust-nlp/AgentBoard) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/51ac6936ab73c83e65fb25ed28ccb2b4-Abstract-Datasets_and_Benchmarks.html) |
 | Reasoning Gym | Unified Frameworks | Text | Algorithmic, Dynamic Tasks | [💻 GitHub](https://github.com/open-thought/reasoning-gym) | [[Paper]](https://arxiv.org/abs/2505.24760) |
 | ALFWorld | Unified Frameworks | Text | Text-World, Household Tasks | [💻 GitHub](https://github.com/alfworld/alfworld) | [[Paper]](https://arxiv.org/abs/2010.03768) |
+| RoboQuest | Unified Frameworks | Multimodal | Embodied Exploration, Hidden Information | [💻 GitHub](https://github.com/declare-lab/RoboQuest) | [[Paper]](https://arxiv.org/abs/2610.10388) |
 | AgentBench | Unified Frameworks | Text | Comprehensive, Multi-Environment | [💻 GitHub](https://github.com/THUDM/AgentBench) | [[Paper]](https://arxiv.org/abs/2308.03688) |
 | GAIA | Unified Frameworks | Multimodal | General Assistant, Hard Tasks | [🤗 HF](https://huggingface.co/gaia-benchmark) | [[Paper]](https://openreview.net/forum?id=oOte_397Q4) |
 | DeepResearch Bench | Unified Frameworks | Text | Long-form Research, Citation Eval | [💻 GitHub](https://github.com/Ayanami0730/deep_research_bench) | [[Paper]](https://arxiv.org/abs/2506.11763) |
