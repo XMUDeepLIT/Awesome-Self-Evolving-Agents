@@ -323,6 +323,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'26) ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning [[Paper]](https://arxiv.org/abs/2603.16060)
 - (arxiv'26) Evolving Medical Imaging Agents via  Experience-driven Self-skill Discovery [[Paper]](https://arxiv.org/abs/2603.05860)
 - (arxiv'26) OpenSkill: Open-World Self-Evolution for LLM Agents [[Paper]](https://arxiv.org/abs/2606.06741) [[Code]](https://github.com/OpenLAIR/OpenSkill)
+- (arxiv'26) SKILL-KD: Contrastive Skill Distillation for LLM Agents [[Paper]](https://arxiv.org/abs/2607.28048) [[Code]](https://github.com/KhanCold/SKILL-KD)
 - (ICML'26) Meta Context Engineering via Agentic Skill Evolution [[Paper]](https://arxiv.org/abs/2601.21557) [[Code]](https://github.com/metaevo-ai/meta-context-engineering)
 
 
