@@ -409,6 +409,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (NeurIPS'25) G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems [[Paper]](https://arxiv.org/abs/2506.07398)
 - (arxiv'25) Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/116187)
 - (arxiv'25) Latent collaboration in multi-agent systems [[Paper]](https://arxiv.org/abs/2511.20639)
+- (arxiv'26) Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems [[Paper]](https://arxiv.org/abs/2605.29790) [[Code]](https://github.com/zz-haooo/Meta-Team)
 
 
 ## Model-Environment Co-Evolution 🔥
