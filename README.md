@@ -190,6 +190,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 
 #### Exploration-Driven Online Self-Evolving 🔥
+- (arxiv'26) Learning from Interaction Experience via Localized Context Distillation [[Paper]](https://arxiv.org/abs/2610.21427) [[Code]](https://github.com/zz-haooo/LoCD)
 - (arxiv'26) Environmental Feedback Modeling Matters: Rethinking Feedback Treatment in Agentic Hindsight Self-Distillation [[Paper]](https://arxiv.org/abs/2610.11384)
 - (ECCV'2026) SyncLoop: A Multimodal Dual-Loop Framework for Self-Improving Mathematical Reasoning [[Paper]](https://arxiv.org/abs/2507.16518)
 - (arxiv'26) TTCS: Test-Time Curriculum Synthesis for Self-Evolving [[Paper]](https://arxiv.org/abs/2601.22628)
