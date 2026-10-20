@@ -273,6 +273,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 #### Offline Experience Compilation
 
+- (arxiv'26) Recursive Harness Distillation across Agents for Robot Manipulation [[Paper]](https://arxiv.org/abs/2609.33378)
 - (arxiv'25) Remember me, refine me: A dynamic procedural memory framework for experience-driven agent evolution [[Paper]](https://arxiv.org/abs/2512.10696)
 - (arxiv'25) Get Experience from Practice: LLM Agents with Record & Replay [[Paper]](https://arxiv.org/abs/2505.17716)
 - (arxiv'25) Skillweaver: Web agents can self-improve by discovering and honing skills [[Paper]](https://arxiv.org/abs/2504.07079)
