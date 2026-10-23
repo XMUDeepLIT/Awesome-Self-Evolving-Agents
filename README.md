@@ -29,6 +29,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 ---
 
 # 🎉 News
+- **[2026-10]** [TTCS](https://arxiv.org/abs/2601.22628) has been accepted to [NeurIPS 2026](https://neurips.cc/virtual/2026/loc/sydney/poster/154412)!
 - **[2026-03]** We release the [TTCS](https://arxiv.org/abs/2601.22628) and accepted by [ICLR 2026 Lifelong Agent(LLA)](https://iclr.cc/virtual/2026/workshop/10000805) workshop!
 - **[2026-02]** We release the survey of [Self-Evolving Agents](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
 
@@ -193,7 +194,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'26) Learning from Interaction Experience via Localized Context Distillation [[Paper]](https://arxiv.org/abs/2610.21427) [[Code]](https://github.com/zz-haooo/LoCD)
 - (arxiv'26) Environmental Feedback Modeling Matters: Rethinking Feedback Treatment in Agentic Hindsight Self-Distillation [[Paper]](https://arxiv.org/abs/2610.11384)
 - (ECCV'2026) SyncLoop: A Multimodal Dual-Loop Framework for Self-Improving Mathematical Reasoning [[Paper]](https://arxiv.org/abs/2507.16518)
-- (arxiv'26) TTCS: Test-Time Curriculum Synthesis for Self-Evolving [[Paper]](https://arxiv.org/abs/2601.22628)
+- (NeurIPS'26) TTCS: Test-Time Curriculum Synthesis for Self-Evolving [[Paper]](https://arxiv.org/abs/2601.22628) [[Poster]](https://neurips.cc/virtual/2026/loc/sydney/poster/154412) [[Code]](https://github.com/XMUDeepLIT/TTCS)
 - (NeurIPS'25) Co-evolving llm coder and unit tester via reinforcement learning [[Paper]](neurips.cc/virtual/2025/loc/san-diego/poster/115329)
 - (arxiv'25) Towards agentic self-learning llms in search environment [[Paper]](https://arxiv.org/abs/2510.14253)
 - (arxiv'25) Multi-agent evolve: Llm self-improve through co-evolution [[Paper]](https://arxiv.org/abs/2510.23595)
