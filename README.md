@@ -617,6 +617,8 @@ Benchmarks that evaluate whether agents can turn capability goals, interaction e
 | **A-Lab** | Materials Science | Robotic lab | Active-learning synthesis | ML-guided planning | 71% synthesis success | [🌐 Web](https://www.nature.com/articles/s41586-023-06734-w) | [[Paper]](https://www.nature.com/articles/s41586-023-06734-w) |
 | **CRESt** | Catalysis Discovery | Multimodal robotic lab | Multimodal BO loop | KABO; VLM | 9.3× cost-performance gain | [🌐 Web](https://www.nature.com/articles/s41586-025-09640-5) | [[Paper]](https://www.nature.com/articles/s41586-025-09640-5) |
 | **FARS** | Academic Research | Open research workspace | Hypothesis loop | Multi-agent automation | Auto paper generation | [🌐 Web](https://analemma.ai/blog/introducing-fars/) | [[Paper]](https://analemma.ai/blog/introducing-fars/) |
+| **AutoSR** | Symbolic Regression | Research-state workspace | Propose–Review MCTS loop | Research State search | Exact laws on 3 cp3-bench tasks no prior SR system solved | [💻 GitHub](https://github.com/AutoResearch-Factory/AutoSR) | [[Paper]](https://arxiv.org/abs/2608.16876) |
+| **AgonAlpha** | Quantitative Finance | WorldQuant BRAIN | Propose–Review MCTS loop | Adversarial reviewer with veto | 17 SPECTACULAR alphas from 60 submissions | [💻 GitHub](https://github.com/AutoResearch-Factory/AgonAlpha) | [[Paper]](https://arxiv.org/abs/2608.11250) |
 
 ## Autonomous Software Engineering
 | Application | Domain | Environment | Evolution Mechanism | Core Technology | Breakthrough Results | Link | Paper |
