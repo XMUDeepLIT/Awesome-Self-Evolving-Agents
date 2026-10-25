@@ -32,6 +32,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 - **[2026-10]** [TTCS](https://arxiv.org/abs/2601.22628) has been accepted to [NeurIPS 2026](https://neurips.cc/virtual/2026/loc/sydney/poster/154412)!
 - **[2026-03]** We release the [TTCS](https://arxiv.org/abs/2601.22628) and accepted by [ICLR 2026 Lifelong Agent(LLA)](https://iclr.cc/virtual/2026/workshop/10000805) workshop!
 - **[2026-02]** We release the survey of [Self-Evolving Agents](https://github.com/XMUDeepLIT/Awesome-Agentic-Self-Evolution).
+- **[DoomPay](https://github.com/doomsday-network/doom-pay)** - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`), HTTP 402 payment wall, and MCP tool server for verifying Layer-1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 
 ---
