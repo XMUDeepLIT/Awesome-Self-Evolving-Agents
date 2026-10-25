@@ -377,6 +377,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arxiv'25) Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly? [[Paper]](https://arxiv.org/abs/2511.13646)
 - (ICLR'26) EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems [[Paper]](https://arxiv.org/abs/2510.13220)
 - (arxiv'26) Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning [[Paper]](https://arxiv.org/abs/2601.07641)
+- (arxiv'26) Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction [[Paper]](https://arxiv.org/abs/2601.12762) [[Code]](https://github.com/NEUIR/ToolMaster)
 
 
 ### Agentic Topology Evolution
