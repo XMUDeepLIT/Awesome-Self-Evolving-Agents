@@ -274,6 +274,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 #### Offline Experience Compilation
 
+- (arxiv'26) TabAgent: Distilling LLM Agent Components into Cheap Classifiers [[Paper]](https://arxiv.org/abs/2602.16429) [[Code]](https://github.com/dolev31/TabAgent)
 - (ICSE'27) Learning from Repair Experience: Self-Evolving Agents for Automated Vulnerability Repair [[Paper]](https://arxiv.org/abs/2605.30105) [[Code]](https://github.com/iSEngLab/Learn-from-Repair-Experience)
 - (arxiv'26) Recursive Harness Distillation across Agents for Robot Manipulation [[Paper]](https://arxiv.org/abs/2609.33378)
 - (arxiv'25) Remember me, refine me: A dynamic procedural memory framework for experience-driven agent evolution [[Paper]](https://arxiv.org/abs/2512.10696)
