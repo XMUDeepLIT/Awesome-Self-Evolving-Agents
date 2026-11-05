@@ -426,7 +426,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 ### Multi-Agent Policy Co-Evolution
 
-- (STAI-X'26) NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning [[Paper]](https://openreview.net/pdf?id=psCz7NClif) [[Code]](https://github.com/haoranlustat/NeuroMAS)
+- (STAI-X'26) NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning [[Paper]](https://arxiv.org/abs/2605.16757) [[Code]](https://github.com/haoranlustat/NeuroMAS)
 - (ICLR'26) Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs [[Paper]](https://arxiv.org/abs/2510.11062)
 - (AAAI'26) LLM Collaboration with Multi-Agent Reinforcement Learning [[Paper]](https://arxiv.org/abs/2508.04652)
 - (arxiv'26) Decentralized LLM Collaboration with Multi-Agent Actor Critic [[Paper]](https://arxiv.org/pdf/2601.21972)
