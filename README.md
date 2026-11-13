@@ -621,6 +621,7 @@ Benchmarks that evaluate whether agents can turn capability goals, interaction e
 | **FARS** | Academic Research | Open research workspace | Hypothesis loop | Multi-agent automation | Auto paper generation | [🌐 Web](https://analemma.ai/blog/introducing-fars/) | [[Paper]](https://analemma.ai/blog/introducing-fars/) |
 | **AutoSR** | Symbolic Regression | Research-state workspace | Propose–Review MCTS loop | Research State search | Exact laws on 3 cp3-bench tasks no prior SR system solved | [💻 GitHub](https://github.com/AutoResearch-Factory/AutoSR) | [[Paper]](https://arxiv.org/abs/2608.16876) |
 | **AgonAlpha** | Quantitative Finance | WorldQuant BRAIN | Propose–Review MCTS loop | Adversarial reviewer with veto | 17 SPECTACULAR alphas from 60 submissions | [💻 GitHub](https://github.com/AutoResearch-Factory/AgonAlpha) | [[Paper]](https://arxiv.org/abs/2608.11250) |
+| **SwarmEvolve** | Math & Scientific Computing | Program evaluators | Evolutionary search loop | Latent agent swarms with KV-cache sharing | Improves on 3 AlphaEvolve results with Qwen3 8B | [💻 GitHub](https://github.com/Qile-J/SwarmEvolve) | [[Paper]](https://arxiv.org/abs/2611.08483) |
 
 ## Autonomous Software Engineering
 | Application | Domain | Environment | Evolution Mechanism | Core Technology | Breakthrough Results | Link | Paper |
