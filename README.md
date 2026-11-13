@@ -274,6 +274,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 
 #### Offline Experience Compilation
 
+- (arxiv'26) Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction [[Paper]](https://arxiv.org/abs/2611.10439)
 - (ICSE'27) Learning from Repair Experience: Self-Evolving Agents for Automated Vulnerability Repair [[Paper]](https://arxiv.org/abs/2605.30105) [[Code]](https://github.com/iSEngLab/Learn-from-Repair-Experience)
 - (arxiv'26) Recursive Harness Distillation across Agents for Robot Manipulation [[Paper]](https://arxiv.org/abs/2609.33378)
 - (arxiv'25) Remember me, refine me: A dynamic procedural memory framework for experience-driven agent evolution [[Paper]](https://arxiv.org/abs/2512.10696)
