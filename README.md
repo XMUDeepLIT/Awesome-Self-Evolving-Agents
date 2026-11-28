@@ -111,6 +111,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arXiv 2025) A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems [[Paper]](https://arxiv.org/abs/2508.07407)
 - (arXiv 2026) Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses [[Paper]](https://arxiv.org/abs/2605.02900)
 - (SSRN 2026) The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents [[Paper]](https://ssrn.com/abstract=7186738)
+- (Preprints.org 2026) A Survey on AI for AI: When the Improver Becomes the Improvee [[Paper]](https://doi.org/10.20944/preprints202609.0591.v2)
 
 
 # 📜 Research Papers
@@ -624,7 +625,7 @@ Benchmarks that evaluate whether agents can turn capability goals, interaction e
 | **AutoSR** | Symbolic Regression | Research-state workspace | Propose–Review MCTS loop | Research State search | Exact laws on 3 cp3-bench tasks no prior SR system solved | [💻 GitHub](https://github.com/AutoResearch-Factory/AutoSR) | [[Paper]](https://arxiv.org/abs/2608.16876) |
 | **AgonAlpha** | Quantitative Finance | WorldQuant BRAIN | Propose–Review MCTS loop | Adversarial reviewer with veto | 17 SPECTACULAR alphas from 60 submissions | [💻 GitHub](https://github.com/AutoResearch-Factory/AgonAlpha) | [[Paper]](https://arxiv.org/abs/2608.11250) |
 | **SwarmEvolve** | Math & Scientific Computing | Program evaluators | Evolutionary search loop | Latent agent swarms with KV-cache sharing | Improves on 3 AlphaEvolve results with Qwen3 8B | [💻 GitHub](https://github.com/Qile-J/SwarmEvolve) | [[Paper]](https://arxiv.org/abs/2611.08483) |
-| **Claw AI Lab** | Automated AI Research | Interactive research workspace | Execution artifacts feed subsequent research steps | Configurable agent teams and runnable experiment harness | Five internal research case studies | [💻 GitHub](https://github.com/Claw-AI-Lab/Claw-AI-Lab) | [[Paper]](https://arxiv.org/abs/2605.22662) |
+| **AutoNumerics** | Scientific Computing | PDE benchmarks (CodePDE and 24 self-built problems) | Residual-based verify-and-restart loop | Multi-agent Formulator–Planner–Coder–Critic pipeline | Lowest error on all 5 CodePDE problems | [💻 GitHub](https://github.com/Daviddjddu/Autonumerics) | [[Paper]](https://arxiv.org/abs/2602.17607) |
 
 ## Autonomous Software Engineering
 | Application | Domain | Environment | Evolution Mechanism | Core Technology | Breakthrough Results | Link | Paper |
