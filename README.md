@@ -111,6 +111,7 @@ Agentic Self-Evolving represents a paradigm shift in AI development, enabling sy
 - (arXiv 2025) A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems [[Paper]](https://arxiv.org/abs/2508.07407)
 - (arXiv 2026) Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses [[Paper]](https://arxiv.org/abs/2605.02900)
 - (SSRN 2026) The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents [[Paper]](https://ssrn.com/abstract=7186738)
+- (Preprints.org 2026) A Survey on AI for AI: When the Improver Becomes the Improvee [[Paper]](https://doi.org/10.20944/preprints202609.0591.v2)
 
 
 # 📜 Research Papers
